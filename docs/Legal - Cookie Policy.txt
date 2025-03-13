@@ -1,0 +1,462 @@
+﻿3/11/25, 4:58 PM Legal - Cookie Policy 
+Products 
+Solutions 
+Developers 
+Partners 
+Pricing 
+Log in Sign up 
+Blog 
+Docs 
+Get Support 
+Contact Sales 
+Legal & Security / Cookie Policy 
+Cookie Policy 
+Last Updated on January 1, 2025 
+This cookie policy (“Cookie Policy”) relates to your access and use of the websites www.digitalocean.com, www.cloudways.com, and/or any sub-website and/or associated domains (and/or sub-domains) (together “Website”) operated by DigitalOcean LLC (“DigitalOcean,” “we”, “us”, or “our”). 
+Please direct any questions related to this Cookie Policy to 
+privacy@digitalocean.com 
+For more information about how we process your personal information, please read our Privacy Policy. 
+https://www.digitalocean.com/legal/cookie-policy 1/18
+3/11/25, 4:58 PM Legal - Cookie Policy 
+What Are Cookies? 
+Cookies are small text files that may be placed on your device when you interact with online services and access certain websites. Cookies do not recognize you personally, but rather the device you use or capture your preferences. Cookies can be used to remember information about your visit such as language settings or track when you last logged in to help improve your experience with a website. They can also be used to provide certain features or functionality or to 
+troubleshoot errors, and provide insights into how services are being used. Similar technologies such as pixels, web beacons, tracking technologies, or local storage can also be used for these purposes. We use “cookies” in this Cookie Policy to refer to cookies and these similar technologies. 
+On the Website, we use a combination of first-party cookies which are set by us as well as third-party cookies which are cookies from a different provider. You can block, at any time, the cookies used on the Website: 
+through the consent management platform made available to you on the Website when you first log on the Website and always available on the 
+Websites through the cookie preference icon; or 
+by setting up your browser or mobile device according to the instructions below. 
+Why We Use Cookies 
+We use cookies to provide certain features or functionality of the Website or make your experience using our Website better. Cookies also help to keep track of your preferences, conduct diagnostics on how our Website or the services are performing, improve security, or deliver content. The purpose of each cookie used on the Website is detailed below. 
+Managing Cookies 
+Cookie Preferences on our Website 
+The cookies we place on the Website allow you to take advantage of some essential features. Blocking essential cookies may impact your experience with the Websites. At any time, you can change your cookie preferences by clicking on the cookie preference icon on the Website. 
+Browser Settings 
+Most browsers are set to accept cookies by default. You can adjust your browser settings to manage browser cookies. 
+https://www.digitalocean.com/legal/cookie-policy 2/18
+3/11/25, 4:58 PM Legal - Cookie Policy 
+To change your cookies settings on your browser, please click on the relevant link below: 
+Apple Safari 
+Google Chrome 
+Microsoft Edge 
+Mozilla Firefox 
+We are not responsible for browser based cookies but we encourage you to visit the support website for your browser for more information about their cookie and privacy settings. Please note that if you block or reject our cookies through your browser settings, it may impact your experience with our Website or services. 
+Mobile device settings 
+If you are using a mobile device, you can also manage personalized ads on your device by adjusting the settings provided by your device manufacturer or the operating system provider: 
+Manage settings on iOS devices 
+Manage settings on Android devices 
+Other preference management tools 
+For more information about cookies, in order to see the cookies placed on your device and how to manage your cookies preference, you can also use 
+www.youronlinechoices.eu 
+To opt out of being tracked by Google Analytics across all websites, visit http://tools.google.com/dlpage/gaoptout. 
+We do not track our website users over time and across third party websites to provide targeted advertising. At this time, we do not respond to “Do Not Track” signals from your web browser due to the lack of an established industry standard. 
+Third-Party Cookies 
+Various third-party cookies may also be used on the Website. In this context, DigitalOcean acts as a joint data controller for the collection and transmission of data to the third-party but only to the extent that it is technically necessary. Beyond the collection and technical transmission, DigitalOcean does not have any control over the operation of these third-party cookies. You should review the cookie policy and/or the privacy policy of these third-party services before accepting third-party cookies. 
+https://www.digitalocean.com/legal/cookie-policy 3/18
+3/11/25, 4:58 PM Legal - Cookie Policy 
+Specic Cookies Used On The Cloudways Websites 
+Essential Cookies 
+These cookies are required to properly operate the Website. If you disable these cookies, they may impact the features or functionality of the Website. 
+Name Provider Purpose Lifespan Type 
+Switching 
+platforms and 
+maintaining login 
+sessions, as well 
+jwt_flexibleDigitalOcean Cloudways) 
+cw_user_typeDigitalOcean Cloudways) 
+deviceIdDigitalOcean Cloudways) 
+cwLang DigitalOcean Cloudways) 
+as for 
+maintaining a new UI session and making 
+regular requests to get new 
+tokens. 
+Storing if the user is a primary user or a team member. This information is used on the 
+Website for login and to retain the user role across sub-domains. 
+Generating a device ID used for tracking and authentication purposes. 
+Detecting the userʼs language, holding the 
+customerʼs 
+1 day Cookie 
+1 day Cookie 
+1 day Cookie 1 day Cookie 
+https://www.digitalocean.com/legal/cookie-policy 4/18
+3/11/25, 4:58 PM Legal - Cookie Policy 
+Name Provider Purpose Lifespan Type 
+language 
+preference. 
+Using for 
+signup, 
+extending 
+auth_deviceDigitalOcean Cloudways) 
+cw_userDigitalOcean Cloudways) 
+cw_parent_userDigitalOcean Cloudways) 
+laravel_sessionDigitalOcean Cloudways) 
+XSRFTOKEN DigitalOcean Cloudways) 
+device expiry if not suspicious, and team 
+member 
+activation. 
+Confirming 
+primary user login 
+authentication for login 
+purposes. 
+Retaining the primary user ID for different 
+purposes across sub-domains. 
+Maintaining the Laravel session for the user. 
+Generating an authentication token that the server maintains 
+for additional security, 
+specifically to protect against Cross-Site 
+1  6 
+monthsCookie 
+8 days Cookie 
+1 day Cookie 
+Session Cookie Session Cookie 
+https://www.digitalocean.com/legal/cookie-policy 5/18
+3/11/25, 4:58 PM Legal - Cookie Policy 
+Name Provider Purpose Lifespan Type 
+Request Forgery 
+CSRF) attacks. 
+Storing a flag for 
+a trial user once 
+the user verifies 
+their account. 
+This flag is used 
+to display a 
+cng_trial_[userID]DigitalOcean Cloudways) 
+cwserverlistfilter[userID]DigitalOcean Cloudways) 
+user_bundleDigitalOcean Cloudways) 
+__cf_bm Cloudflare 
+greetings 
+message on the create server page, which 
+flashes out after 8 seconds and is never visible 
+again. 
+Remembering how servers are sorted by the user and is used to store the 
+sorting 
+preference of the server 
+listing. 
+Checking and facilitating in showing the 
+right apps in the “add app” 
+dropdown. 
+Reading and 
+filtering requests from bots. 
+20 days Cookie 
+10 days Cookie 
+1 day Cookie 
+30 
+minutesCookie 
+https://www.digitalocean.com/legal/cookie-policy 6/18
+3/11/25, 4:58 PM Legal - Cookie Policy 
+Name Provider Purpose Lifespan Type Tracking user 
+intercom-session-fv5k8i5t Intercom 
+intercom-device-id 
+fv5k8i5tIntercom intercom-id-fv5k8i5t Intercom notice_behavior TrustArc 
+notice_preferences TrustArc 
+session (for 
+Intercom 
+Messenger). 
+Identifying user device (for 
+Intercom 
+Messenger). 
+Identifying 
+anonymous user (for Intercom Messenger). 
+Storing userʼs cookie 
+preference. 
+Storing selection a user has made on the TrustArc cookie consent management pop-up. It is 
+used to manage the display of the TrustArc 
+pop-up and to save the chosen settings. 
+1 week Cookie 
+9 
+monthsCookie 
+9 
+monthsCookie Session Cookie 
+9 
+monthsCookie 
+cmapi_gtm_bl TrustArc Preventing the triggering of 
+cookies that 
+have not been 
+9 
+months 
+Cookie 
+https://www.digitalocean.com/legal/cookie-policy 7/18
+3/11/25, 4:58 PM Legal - Cookie Policy 
+Name Provider Purpose Lifespan Type 
+selected by a 
+user. 
+Making it 
+possible to set 
+and save 
+cookies 
+cmapi_cookie_privacy TrustArc notice_gdpr_prefs TrustArc 
+according to the userʼs cookie settings via 
+TrustArc cookie consent 
+management function. 
+Storing selection a user has made on the TrustArc cookie consent management pop-up. It is 
+used to submit the selected 
+cookie 
+categories 
+(required, 
+functional, 
+advertising). 
+9 
+monthsCookie 
+9 
+monthsCookie 
+AEC Google Ensuring that requests within a 
+browsing 
+session are 
+made by the 
+user, and not by 
+other sites. 
+These cookies 
+prevent 
+malicious 
+websites from 
+6 
+months 
+Cookie 
+https://www.digitalocean.com/legal/cookie-policy 8/18
+3/11/25, 4:58 PM Legal - Cookie Policy 
+Name Provider Purpose Lifespan Type 
+acting on behalf 
+of a user without 
+that userʼs 
+knowledge. 
+Storing userʼs 
+wingify_donot_track_actions Pushcrew 
+_wingify_pc_uuid Pushcrew Analytics cookies 
+“Do not track” preference. 
+Subscribing ID for unique 
+identification. 
+1 year Cookie 1 year Cookie 
+These cookies help us analyze and understand how the Website performs and is used, such as number of users, how users interact with the Website, and how much time you spend on the Website. 
+Name Provider Purpose Lifespan Type Storing the page 
+user_landing_pageDigitalOcean Cloudways) 
+user_last_visitedDigitalOcean Cloudways) 
+information where the user landed on the Website. 
+Storing the 
+information of the last page the user visited before going to the signup page. It gets continuously updated as the user navigates through the Website. 
+90 days Cookie 90 days Cookie 
+https://www.digitalocean.com/legal/cookie-policy 9/18
+3/11/25, 4:58 PM Legal - Cookie Policy 
+Name Provider Purpose Lifespan Type 
+_hjSessionUser_790313 HotjarStoring unique user ID. 
+_hjSession_790313 HotjarMaintaining userʼs session. 
+Distinguishing 
+unique users. It is 
+included in each 
+page request in the 
+364 
+daysCookie 
+Few 
+secondsCookie 
+_ga Google _gid Google 
+Website and used to calculate visitor, session and 
+campaign data for the Websiteʼs 
+analytics reports. 
+Storing and counting page views on the Website. 
+2 years Cookie 24 hours Cookie 
+_gat_UA242862621 GoogleManaging request 
+rate.1 minute Cookie 
+_ga_BH873R8WMF GooglePersisting user 
+session state.2 years Cookie 
+_ga_FXKWMLHTF0 GooglePersisting user 
+session state.2 years Cookie 
+uvts UserVoiceTracking user 
+analytics.1 year Cookie 
+https://www.digitalocean.com/legal/cookie-policy 10/18
+3/11/25, 4:58 PM Legal - Cookie Policy 
+Name Provider Purpose Lifespan Type 
+disqus_unique wpDiscuzTracking unique 
+visits.1 year Cookie 
+__jid User VoiceManaging user 
+sessions.Session Cookie 
+JSESSIONID New RelicMaintaining 
+NewRelic session.Session Cookie 
+MUIDMicrosoft Bing Ads 
+MUIDMicrosoft Bing Ads 
+_uetvidMicrosoft Bing Ads 
+MRMicrosoft 
+Tracking Microsoft website usage. 
+Tracking Microsoft website usage. 
+Tracking Bing Ad users. 
+Refreshing Microsoft 
+13 
+monthsCookie 
+13 
+monthsCookie 
+13 
+monthsCookie 
+Bing Ads 
+MUID.7 days Cookie 
+li_sugr LinkedInStoring and tracking 
+usersʼ identity.90 days Cookie 
+Tracking YouTube 
+YSC YouTube Marketing cookies 
+session and statistics. 
+Session Cookie 
+We use marketing cookies to enable the placement of advertisements, to measure their effectiveness and to reflect your preferences. These cookies help us market our products and services. 
+https://www.digitalocean.com/legal/cookie-policy 11/18
+3/11/25, 4:58 PM Legal - Cookie Policy 
+Name Provider Purpose Lifespan Type 
+CWLOGINUSERDigitalOcean Cloudways) 
+Showing advertising 
+campaigns to users.90 days Cookie 
+_uetsid GooglePresenting relevant 
+advertisements.1 day Cookie 
+IDE GooglePresenting relevant 
+advertisements.1 year Cookie 
+test_cookie GoogleChecking cookie support. 
+NID GooglePersonalizing Google 
+15 
+minutesCookie 
+Ads.6 months Cookie 
+_gcl_au GoogleTracking ad 
+conversions.90 days Cookie 
+_fbp Facebook Tracking unique users. 3 months Pixel 
+fr FacebookDelivering relevant 
+Facebook Ads.3 months Pixel 
+sa-user-id StackAdaptTracing ad 
+preferences.1 year Cookie 
+GPS YouTube Storing location data.30 minutesCookie 
+VISITOR_INFO1_LIVE YouTube Tracking identities for ad targeting and 
+180 days Cookie 
+https://www.digitalocean.com/legal/cookie-policy 12/18
+3/11/25, 4:58 PM Legal - Cookie Policy 
+Name Provider Purpose Lifespan Type 
+measuring YouTube 
+bandwidth. 
+did PippioTracking device 
+sessions.365 days Cookie 
+didts PippioProviding tracking 
+accuracy.365 days Cookie 
+nnls Pippio Tracking ad behavior. 60 days Cookie pxrc Rlcdn Serving relevant ads. 60 days Cookie 
+io.narrative.guid.v2 io.narrative.ioIdentifying and tracking users. 
+Identifying how many 
+users sign up through 
+referral links and 
+12 
+monthsCookie 
+SasReferralIDDigitalOcean Cloudways) 
+SasMerchantID DigitalOcean Cloudways) 
+ensuring that our 
+affiliates are credited accurately for the traffic they bring to the Website. 
+Ensuring that any purchases the user makes through an affiliate link are 
+properly credited to Cloudways within the ShareASale network. By storing the 
+Merchant ID, we can accurately track sales and ensure that 
+90 days Cookie 90 days Cookie 
+https://www.digitalocean.com/legal/cookie-policy 13/18
+3/11/25, 4:58 PM Legal - Cookie Policy 
+Name Provider Purpose Lifespan Type 
+Cloudways receives 
+the correct attribution 
+for purchases made 
+through our affiliate 
+partners. 
+Tracking the leads 
+generated by our 
+affiliates and to ensure 
+accurate attribution of 
+referred users. By 
+AffiliateDigitalOcean Cloudways) 
+channel_attributionDigitalOcean Cloudways) 
+_omappvpOptin Monster 
+storing the Affiliate ID, we can determine which affiliate referred users to the Website and ensure that they receive credit for their efforts. 
+Affiliate channel 
+related information is stored in it which is used in affiliate 
+conversions. 
+Enhancing user 
+experience by 
+personalizing 
+interactions based on whether a visitor is new or returning. It allows the Website to tailor their campaigns and offers to different user segments. 
+90 days Cookie 
+90 days Cookie 11 years Cookie 
+_omappvs Optin Monster 
+Analyzing user 
+engagement by 
+understanding when a 
+20 
+minutes 
+Cookie 
+https://www.digitalocean.com/legal/cookie-policy 14/18
+3/11/25, 4:58 PM Legal - Cookie Policy 
+Name Provider Purpose Lifespan Type 
+of 
+inactivity 
+Functionality cookies 
+user becomes a repeat user. It 
+supports campaign targeting by 
+identifying returning visitors. 
+These cookies are used to provide enhanced functionality and personalization to the Website. 
+Name Provider Purpose Lifespan T Providing load 
+lidc LinkedIn 
+balancing functionality. 
+24 hours Co 
+optimizelyBuckets OptimizelyMaintaining A/B test variations.1 year Co 
+optimizelyEndUserId OptimizelyUsing for user 
+authentication.1 year Co 
+Storing user 
+optimizelySegments Optimizely 
+segments for A/B testing. 
+1 year Co 
+Short-lived, 
+usually 
+optimizelyPendingLogEvents OptimizelyTracking A/B Testing IDs. 
+expires 
+once the 
+events are successfully sent. 
+Co 
+https://www.digitalocean.com/legal/cookie-policy 15/18
+3/11/25, 4:58 PM Legal - Cookie Policy 
+Name Provider Purpose Lifespan T 
+Enhancing user 
+experience and 
+tracking user 
+engagement by 
+recording the 
+timestamp of a 
+userʼs first 
+session on the 
+Website. It 
+optimizely_data$$first_session Optimizely 
+agency_partnershipDigitalOcean Cloudways) 
+helps 
+Optimizely 
+determine 
+when a user first interacts with the 
+Website, 
+enabling more accurate 
+experimentation and analysis. 
+Enhancing the user experience by 
+automatically directing the user to the 
+specific Agency Partnership 
+form upon 
+logging into the platform. By 
+storing your 
+navigation 
+preferences, we streamline the userʼs 
+access to the tools and forms they need. 
+6 months Co 90 days Co 
+https://www.digitalocean.com/legal/cookie-policy 16/18
+3/11/25, 4:58 PM Legal - Cookie Policy 
+Name Provider Purpose Lifespan T 
+Monitoring user 
+engagement by 
+counting page 
+views per 
+omSessionPageviewsOptin Monster 
+omSessionStartOptin Monster 
+Updates 
+session. This helps improve Website design and content delivery based on user 
+interaction. 
+Measuring how long users 
+spend on the Website during a session. This data is used to analyze user engagement and improve Website 
+performance. 
+Session Co Session Co 
+This Cookie Policy is subject to change at any time. Where required by law, we may notify you but you should regularly check this page for updates to this Cookie Policy. 
+Contact 
+If you have any questions, please contact us at privacy@digitalocean.com. https://www.digitalocean.com/legal/cookie-policy 17/18
+3/11/25, 4:58 PM Legal - Cookie Policy 
+Company 
+Products 
+Resources 
+Solutions 
+Contact 
+© 2025 DigitalOcean, LLC. Sitemap. Cookie Preferences 
+https://www.digitalocean.com/legal/cookie-policy 18/18

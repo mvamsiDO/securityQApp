@@ -1,0 +1,103 @@
+3/11/25, 4:56 PM Legal - Partner Network Terms and Conditions 
+Products 
+Solutions 
+Developers 
+Partners 
+Pricing 
+Log in Sign up 
+Blog 
+Docs 
+Get Support 
+Contact Sales 
+Legal & Security / Partner Network Terms and Conditions 
+Partner Network Terms and Conditions 
+Last Updated on May 21, 2024 
+Introduction 
+What is the purpose of these Partner Network Terms and Conditions? These Partner Network Terms and Conditions (“Partner Network Terms and 
+Conditions”) supplement the terms of your Partner Agreement (“Agreement”) and provide additional details regarding the Program and the benefits of 
+participating as a DigitalOcean partner. 
+https://www.digitalocean.com/legal/partner-network-terms-and-conditions 1/8
+3/11/25, 4:56 PM Legal - Partner Network Terms and Conditions 
+When do these Partner Network Terms and 
+Conditions take eect? 
+These Partner Network Terms and Conditions take effect when you click “I accept” or other functionality indicating your acceptance of its terms or when you accept the Agreement. If you commence reselling Services, create an Account, or otherwise commence participating in the Program prior to taking any action described in the preceding sentence, you will also be deemed to have accepted the Agreement and these Partner Network Terms and Conditions. 
+Capitalized terms used but not defined in these Partner Network Terms and Conditions have the meanings given to them in the Agreement. 
+Partner Network Terms and Conditions 
+1. Program Application and Administration. 
+1.1 Program Application. In order to participate in the Program as a DigitalOcean partner, you must submit a completed Program application through our Program site, agree to the End Customer Terms and the Partner Program Documents (including these Partner Network Terms and Conditions), and be accepted by us into the Program. We will notify you as to whether we accept your Partner application and may accept or decline your application for any lawful reason. Our approval, if granted, may include limitations on the scope of your participation in the Program (e.g. via Program Tracks, Territory, resale models, etc.) and those will be documented in your Account or other Program-related correspondence from us. 
+1.2 Creation of Partner Account. If you are accepted into the Program, you must create a Program account (an “Account”) where you can manage your 
+participation in the Program. We may use your Account information to send you information about us, our Services, the Program, or other information that we think might be of interest to you. We handle your Account information, and any other personal information we receive from your use of the Program site or otherwise collect from you during your participation in the Program (“Account 
+Information”), in accordance with the DigitalOcean privacy notice located at https://www.digitalocean.com/legal/privacy-policy (and any successor or related locations designated by us), as may be updated by us from time to time (the “Privacy Policy”). Except to the extent we are at fault, you are responsible for all activities that occur under your Account. 
+1.3 Referral of End Customers. If you participate in a Program Track that includes the referral of prospective End Customers to us, but does not involve your resale 
+https://www.digitalocean.com/legal/partner-network-terms-and-conditions 2/8
+3/11/25, 4:56 PM Legal - Partner Network Terms and Conditions 
+of Services, you may be eligible to receive compensation for qualifying referrals. The types of referrals that qualify, the manner in which referrals must be tracked, and the associated payments for qualifying referrals are specified in the 
+applicable Program Guide(s). 
+1.4 Program Resale Models. If you participate in a Program Track that includes the resale of Services to End Customers, you may be eligible to resell through two resale models. Under the “Sub-Account Model,” you are responsible for creating a sub-account under your Account for each End Customer in accordance with the Program Guide or other Program documentation we provide. Usage and 
+consumption of Services by End Customers will be tracked at the sub-account level and we will invoice you for all usage and consumption by your End 
+Customers. References to your Account include all sub-accounts. Under the “Partner Account Model,” End Customers will access and consume Services under your Account and we will not track usage or consumption by End Customer. You must designate which model you choose for resale through your Account. We have the right to modify, remove or add resale models from time to time and will provide reasonable advance notice if we elect to no longer support a resale model that you have selected. 
+1.5 Our Interaction with End Customers. You may provide information to us about End Customers or prospective End Customers, including personal information (“End Customer Information”). End Customer is distinct from information that an End Customer processes through the Services and that information is subject to the End Customer Terms. You will obtain all necessary rights, consents and approvals to provide the End Customer Information to us and for us to handle the information in accordance with our Privacy Policy. You acknowledge that we have the right to (a) directly communicate and interact with each End Customer without your participation using End Customer Information, and (b) terminate an End Customerʼs ability to access and use the Services in accordance with the End Customer Terms. 
+1.6 Management of End Customer Orders. If you are reselling Services to End Customers under a Program Track, the following terms apply to your management of End Customer orders: 
+ Each End Customer must accept End Customer Terms to procure Services from you. By reselling Services to an End Customer, you (i) represent and warrant to us that the End Customer has accepted the End Customer Terms and (ii) agree to pay us for all End Customer usage and consumption of the Services under your Account. 
+ You are responsible for the usage and consumption of Services under your Account. We bill based on usage and consumption unless otherwise stated in the public pricing for the Services. If you choose the Sub-Account Model, and notify us that an End Customer no longer requires Services, we will use https://www.digitalocean.com/legal/partner-network-terms-and-conditions 3/8
+3/11/25, 4:56 PM Legal - Partner Network Terms and Conditions 
+commercially reasonable efforts to prevent the use of Services through that End Customerʼs sub-account. You are responsible for limiting an End 
+Customerʼs access to the Services if you choose the Partner Account Model.  You may cancel or terminate an End Customerʼs access to the Services at any time, provided that cancelation or termination is permitted by your 
+agreement with the End Customer. We will invoice you only for the End 
+Customerʼs actual usage and consumption. The amounts you pay for 
+Services are non-refundable. 
+1.7 Program Guides. The Program Guide for each Program Track includes important details regarding the Program. You may access the Program Guides through your Account. The Program Guides are incorporated by reference into these Partner Network Terms and Conditions and your acceptance of these Partner Network Terms and Conditions or the Agreement also indicate your acceptance of the Program Guides. The Program Guides may be updated from time to time in accordance with the Agreement. 
+1.8 Partner Tiers. Within each Program Track, there may be different partner tiers. The criteria for reaching each tier are set forth in the applicable Program Guide or other Program information we provide. We may change these criteria at any time. Different tiers of partners may qualify for different levels of referral fees, discounts or Benefits (as defined in Section 2.1. 
+1.9 End Customer Support. You are responsible for providing technical support to your End Customers. As part of the Program, we may provide you with partner resources to facilitate your provision of support. You will provide reasonable levels of support to your End Customers and will comply with any support programs and requirements included in any Program Guide or other Program materials that we provide. 
+1.10 Your Conduct. You will at all times (a) conduct your activities in the Program in a professional and competent manner and in accordance with the DigitalOcean Code of Business Conduct and Ethics located at 
+https://investors.digitalocean.com/governance/governance 
+documents/default.aspx (and any successor or related locations designated by us), as may be updated by us from time to time (the “DigitalOcean Code of Conduct”), (b) comply with the DigitalOcean Community Code of Conduct located at https://www.digitalocean.com/community/pages/code-of-conduct (and any successor or related locations designated by us), as may be updated by us from time to time (the “DigitalOcean Community Code of Conduct”), (c) comply with all applicable laws, rules, and regulations, and orders of any governmental authority, and (d) not engage in any harmful, false, or deceptive acts or practices. 
+2. Benets and Market Development Funds 
+https://www.digitalocean.com/legal/partner-network-terms-and-conditions 4/8
+3/11/25, 4:56 PM Legal - Partner Network Terms and Conditions 
+2.1 Program Benefits. 
+ Generally. As part of the Program, you may qualify for opportunities, funding or other benefits (collectively, “Benefits”) related to your activities that 
+support the Program. Your participation in the Program and your receipt and usage of any Benefits are governed by these Partner Network Terms and Conditions, the applicable Program Guides and any additional terms that we specify when we provide the Benefits (collectively, “Additional Terms”). If we make these Additional Terms available to you, they are incorporated by reference into these Partner Network Terms and Conditions. By accepting the Benefits or undertaking activities to obtain Benefits, you agree to the Additional Terms. 
+ Market Development Funds. You may be eligible to receive market 
+development funds (“MDF”) for co-marketing opportunities with us (the 
+“Marketing Activities”). The content of the Marketing Activity, eligibility regarding MDF funds, and the dollar amount of the MDF will be subject to these Partner Network Terms and Conditions, the applicable Program Guide and any Additional Terms. You are responsible for the cost, development and execution of each approved Marketing Activity. Reimbursement for the 
+expense of approved, eligible Marketing Activities will be allocated at our discretion. Additional terms relating to our MDF program may be found at https://www.digitalocean.com/partners (or a successor site we specify), and are incorporated herein by reference. For the avoidance of doubt any MDF you receive will be considered Benefits as defined herein. 
+ Partner Development Funds. You may be eligible to receive partner services funds (“PSF”) for providing End Customers with professional services related to their use or adoption of our Services (the “Partner Services Project”). The 
+scope of each Partner Services Project, eligibility regarding PSF, and the dollar amount of the PSF will be subject to these Partner Network Terms and Conditions, the applicable Program Guide and any Additional Terms. You are solely responsible for the cost, development and execution of each approved Partner Services Project. Reimbursement for the expense of approved, 
+eligible Partner Services Project will be allocated at our discretion. Additional terms relating to our PSF program may be found at 
+https://www.digitalocean.com/partners (or a successor site we specify), and are incorporated herein by reference. For the avoidance of doubt any PSF you receive will be considered Benefits as defined herein. 
+ Eligibility. You are only eligible for Benefits if you (i) submit a proposal to us, (ii) receive our approval that you are eligible for such Benefits prior to the start date, and (iii) complete the activity in accordance with your proposal, in jurisdictions approved by DigitalOcean, and in compliance with the Partner Program Documents. If you receive Benefits for which you are not eligible, you will return such Benefits upon our request, or we may cancel such 
+Benefits or make corresponding reductions to any of your future Benefits. https://www.digitalocean.com/legal/partner-network-terms-and-conditions 5/8
+3/11/25, 4:56 PM Legal - Partner Network Terms and Conditions 
+ Use. You may not use any Benefits for any purpose other than for their 
+intended use as communicated by us. Benefits may not be used by your 
+employees for their personal benefit. 
+ Government Customer Projects. If you accept Benefits in support of a 
+project relating to an existing or potential business relationship with a 
+government customer (a “Government Customer Project”), you agree will comply with all applicable government procurement laws, rules, regulations, and contract provisions, including any that pertain to discounts and rebates, or that pertain to ethics and integrity (e.g., prohibitions against gratuities, bribery, corruption, kickbacks, conflicts of interest, false statements or 
+claims, etc.). Your use of Benefits must not create a conflict of interest (or the appearance of a conflict of interest) for you or us, or give rise to any liability for us. If you provide recommendations to a government customer regarding our Services, Benefits should not impact such recommendations, and you will not use Benefits for the Government Customer Project unless you first disclose in writing to the Government customer that DigitalOcean is providing you Benefits for the Project. 
+ Anti-Bribery. The DigitalOcean Code of Conduct prohibits the paying of bribes to anyone, for any reason. You will not violate or knowingly permit your employees or representatives to violate the foregoing prohibition or any applicable anti-corruption laws, and will immediately notify DigitalOcean if you become aware of any investigation, complaint, litigation, or other 
+proceedings against you or your employees or representatives regarding such violations. 
+ Responsibility. You are solely responsible for ensuring you are eligible to receive, and that you are using, Benefits in accordance with applicable law. You will defend, indemnify and hold us and our directors, officers, 
+employees and agents harmless from and against any loss, damage, liability, and expense (including reasonable attorneyʼs fees and court costs) related to any Marketing Activity or initiative for which Benefits are available. 
+3. Program Content and Third Party Data 
+3.1 Program Content. We may provide you with text, images, audio, video, or other content related to the Program (“Program Content”), including a graphic image identifying you as a Program participant (the “Partner Logo”). The DigitalOcean Trademark Guidelines, located here (and any successor or related locations), as they may be updated from time to time (the “Trademark 
+Guidelines”) apply to your use of the Partner Logo. You will comply with the Trademark Guidelines and any other requirements or terms that we include with the Program Content. You will provide us with any proposed use of the Program Content or Partner Logo and will proceed with the use only if approved by us. You will not use the Program Content or Partner Logo for any other purpose. 
+https://www.digitalocean.com/legal/partner-network-terms-and-conditions 6/8
+3/11/25, 4:56 PM Legal - Partner Network Terms and Conditions 
+3.2 Third Party Data. If we provide any third party data (“Third Party Data”) to you, you will handle, use, and process such Third Party Data (a) in accordance with applicable data protection laws, (b) only for the purpose for which it is provided, and © in accordance with your privacy policy and the Partner Program Documents. You will delete any such Third Party Data upon our request or the request of any third party, or as required by applicable law. With the exception of End Customer Information (which is discussed in Section 1.5, you will not provide any Third Party Data to us without our prior, written consent. 
+4. Disclaimers. 
+THE PROGRAM CONTENT, THIRD PARTY DATA, AND ANY BENEFITS OR OTHER MATERIALS THAT WE MIGHT OFFER THROUGH THE PROGRAM COLLECTIVELY, “PROGRAM MATERIALS”) ARE PROVIDED TO YOU “ASIS.” EXCEPT TO THE EXTENT PROHIBITED BY LAW, WE A MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE REGARDING THE PROGRAM OR PROGRAM MATERIALS, AND B DISCLAIM ALL WARRANTIES, INCLUDING ANY IMPLIED OR EXPRESS 
+WARRANTIES I OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR QUIET ENJOYMENT, II THAT THE MATERIALS WILL BE ERROR FREE OR FREE OF HARMFUL 
+COMPONENTS, AND III ARISING OUT OF ANY COURSE OF DEALING OR USAGE OF TRADE. 
+5. Modications and Other Terms. 
+The Agreement governs our right to modify these Partner Network Terms and Conditions. The Agreement also includes limitations on our liability, confidentiality terms and other provisions that apply to all Partner Program Documents. Please review the Agreement terms carefully, as they also affect your rights and obligations under these Partner Network Terms and Conditions. 
+Company 
+Products 
+https://www.digitalocean.com/legal/partner-network-terms-and-conditions 7/8
+3/11/25, 4:56 PM Legal - Partner Network Terms and Conditions 
+Resources 
+Solutions 
+Contact 
+© 2025 DigitalOcean, LLC. Sitemap. Cookie Preferences 
+https://www.digitalocean.com/legal/partner-network-terms-and-conditions 8/8

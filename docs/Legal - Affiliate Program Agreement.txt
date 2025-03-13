@@ -1,0 +1,313 @@
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+Products 
+Solutions 
+Developers 
+Partners 
+Pricing 
+Log in Sign up 
+Blog 
+Docs 
+Get Support 
+Contact Sales 
+Legal & Security / Affiliate Program Agreement 
+Aliate Program Agreement 
+Last Updated on January 1, 2025 
+Aliate Program Agreement 
+PLEASE READ THIS AFFILIATE PROGRAM AGREEMENT CAREFULLY. 
+This is a contract between you (the “Affiliate”) and DigitalOcean, LLC or an applicable DigitalOcean Affiliate (“DigitalOcean”). It describes how we will work together and other aspects of our business relationship. It is a legal document so some of the language is necessarily “legalese” but we have tried to make it as readable as possible. 
+https://www.digitalocean.com/legal/affiliate-program-agreement 1/18
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+The Affiliate Program Agreement applies to your participation in our Affiliate Program (the “Affiliate Program”). These terms are so important that we cannot have you participate in our Affiliate Program unless you agree to them. 
+We periodically update these terms. We might also choose to replace these terms in their entirety if, for example, the Affiliate Program changes, ends, or becomes part of an existing program, including our partner programs. If we update or replace the terms we or the Affiliate Tool will let you know via electronic means, which may include an in-app notification or by email. If you donʼt agree to the update or replacement, you can choose to terminate as we describe below. 
+Denitions 
+“Affiliate Program Agreement” and “Agreement” means this Affiliate 
+Program Agreement together with any applicable Program Policies as 
+defined below 
+“DigitalOcean Affiliate” means a company owned, operated or controlled by DigitalOcean. 
+“Affiliate Program” means our affiliate program as described in this 
+Agreement. 
+“Affiliate Lead” means a customer prospect who clicks on the Affiliate Link that we have made available to you via the Affiliate Tool. 
+“Affiliate Link” means the unique tracking link you place on your site or 
+promote through other channels. 
+“Affiliate Tool” refers to the tool or platform that the parties use in order for you to participate in the Affiliate Program upon your acceptance into the Affiliate Program. 
+“Agreement” means this Affiliate Program Agreement and all materials 
+referred or linked to in here. 
+“Commission” means an amount described in the Affiliate Tool (or if 
+applicable, in the Program Policies) for each Customer Transaction. 
+“Customer” or “End Customer” means the authorized actual user of the DigitalOcean Services who has purchased or signed up for the DigitalOcean products after being an Affiliate Lead. 
+“Customer Transactions” means those transactions by Affiliate Leads that are eligible for Commission pursuant to the ‘Customer Transactionsʼ section of this Agreement. Customer Transactions may include customer purchases or customer signups, as further described in an Affiliate Tool. 
+“Customer Data” means all information that Customer submits or collects via the DigitalOcean Services and all materials that Customer provides or posts, uploads, inputs or submits for public display through the DigitalOcean 
+Services. 
+“DigitalOcean Content” means all information, data, text, messages, 
+software, sound, music, video, photographs, graphics, images, and tags that we incorporate into our services. 
+https://www.digitalocean.com/legal/affiliate-program-agreement 2/18
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+“DigitalOcean Services” means both the Commission Services and Other Services. 
+“Program Policies” means the applicable documentation where we will 
+provide all the up to date guidelines and policies for the Affiliate Program. “Other Services” means those products and services that we offer, which are not included in the Commission Services (as detailed below); as further described in an Affiliate Tool (or if applicable, in the Program Policies) and, for the purposes of this Agreement, Other Services include any 
+implementation, customization, training, consulting, Marketplace, additional support or other professional services, or fees for third-party products or services. 
+“Commission Services” means Services that are eligible for Commission pursuant to the Customer Transactionsʼ section of this Agreement or as 
+further described in an Affiliate Tool (or if applicable, in the Program 
+Policies). For the purposes of this Agreement, the Commission Services do not include any Other Services. 
+“We”, “us”, “our”, and “DigitalOcean” means DigitalOcean, LLC or 
+DigitalOcean Affiliates to the extent applicable. 
+“You” and “Affiliate” means the party, other than DigitalOcean, entering into this Agreement and participating in the Affiliate Program. 
+ DigitalOcean Entity & Non-Exclusivity 
+1.1. This Agreement is between you and the relevant DigitalOcean Affiliate as set out in Program Policies. If the Program Policies do not specify a 
+DigitalOcean Affiliate then this agreement is between you and DigitalOcean, LLC. 
+1.2. This Agreement does not create an exclusive agreement between you and us. Both you and we will have the right to recommend similar products and services of third parties and to work with other parties in connection with the design, sale, installation, implementation and use of similar services and products of third parties. 
+ Affiliate Acceptance 
+2.1. Once you complete an application to become an Affiliate, we will review your application and notify you whether you have been accepted to 
+participate in the Affiliate Program, or not. Before we accept an application, we may want to review your application with you, so we may reach out to you for more information. We may require that you complete certain 
+requirements or certification(s) before we accept your application. If we do not notify you that you are accepted to participate in the Affiliate Program within thirty 30) days from your application, your application is considered to be rejected. 
+https://www.digitalocean.com/legal/affiliate-program-agreement 3/18
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+2.2. If you are accepted to participate in the Affiliate Program, then upon notification of acceptance, the terms and conditions of this Agreement shall apply in full force and effect, until terminated, pursuant to the terms set forth below. Further, you will need to complete any enrollment criteria set out in the Program Policies, if applicable. Failure to complete any enrollment 
+criteria within thirty 30) days of your acceptance will result in the immediate termination of this Agreement and you will no longer be able to participate in the Affiliate Program. 
+2.3 Your acceptance and participation in the Affiliate Program does not mean that you will be accepted into any of our DigitalOcean Partner Programs. In order to participate in these programs, you will need to apply in accordance with the relevant application procedure. 
+2.4. You will comply with the terms and conditions of this Agreement at all times, including any applicable Program Policies. 
+2.5. Participation in the Affiliate Program may require the use of an Affiliate Tool. An Affiliate Tool may be maintained by third parties over whom we have no control. We make no express or implied representations or warranties whatsoever regarding any Affiliate Tool, and links to any such websites, 
+resources and tools should not be construed as an endorsement of them or their content by us. During your participation in the Affiliate Program you are responsible for complying with all terms, conditions and policies imposed by a provider of an Affiliate Tool. 
+ Customer Transactions 
+3.1 Affiliate Program Limits. Each accepted Affiliate Lead will expire 
+according to the information provided in the applicable Affiliate Tool (or if applicable, in the Program Policies) from the date the Affiliate Lead clicked on the Affiliate Link that was made available by you. We will pay you 
+Commission as described in the applicable Affiliate Tool (or if applicable, in the Program Policies) for each new Customer who completes an applicable Customer Transaction after clicking on an Affiliate Lead made available by you, provided that you remain eligible to receive Commission pursuant to the terms of this Agreement. The start of the Customerʼs Service is determined by the date of the first purchase or sign up (as applicable) of the 
+Commission Service by the Customer and unless otherwise provided in the applicable Program Policies you will receive a Commission payment for that Customer Transaction only, regardless of any additional purchases made by that customer. For example, if the initial Customer Transaction is for one 
+Droplet, and there is a subsequent purchase by that same customer for an additional Droplet for the same Account, Affiliate will receive Commission for 
+https://www.digitalocean.com/legal/affiliate-program-agreement 4/18
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+the initial Droplet purchase only. The Affiliate will not be entitled to receive Commission on any additional purchases of DigitalOcean Services by that same Customer. 
+3.2 Eligibility. To be eligible for Commission (i) an Affiliate Lead must be 
+accepted and valid in accordance with the ‘Acceptance and Validityʼ section, (ii) a Customer Transaction must have occurred, (iii) a Customer must remain a customer during the locking period in the applicable Affiliate Tool (or if applicable, in the Program Policies). You are not eligible to receive 
+Commission or any other compensation from us based on transactions for Other Services or if: (i) such compensation is disallowed or limited by 
+federal, state or local law or regulation in the United States or the laws or regulations of your jurisdiction; (ii) the applicable Customer objects to or prohibits such compensation or excludes such compensation from its 
+payments to us or DigitalOcean Affiliates; (iii) the Customer has paid or will pay such commissions, referral fees, or other compensation directly to you, (iv) the Commission payment has been obtained by fraudulent means, 
+misuse of the Affiliate Link, in violation of any Affiliate Program Policies that we make available to you, misuse of an Affiliate Tool or by any other means that we deem to breach the spirit of the Affiliate Program, or (v) the 
+Customer participates in any of our partner programs, and is eligible to 
+receive commission in relation to the Customer Transaction under any of these programs. If at any point you are eligible to receive a revenue share payment or commission under another Program at DigitalOcean, that 
+payment amount will not change based on your participation in the Affiliate Program. For example, you will not be able to receive the Commission set out in this Agreement on any Partner Transaction that was completed whilst 
+participating as a partner in the Partner Program (as defined in the Partner Program Agreement). In competitive situations with other affiliates, we may elect to provide the Commission to the affiliate that we deem to be the most eligible for Commission, at our discretion. We may discontinue or suspend Commission payments should any of the eligibility criteria set forth in this subsection fail to be met at any time. 
+3.3 Acceptance and Validity. You will only be eligible for a Commission 
+payment for any Customer Transactions that derived from Affiliate Leads generated by the Affiliate Link that we make available to you and are 
+accepted by DigitalOcean. An Affiliate Lead will be considered valid and 
+accepted if, in our reasonable determination: (i) it is a new potential customer of ours, and (ii) is not, at the time of submission or sixty 60) days prior, one of our pre-existing customers, or involved in our active sales process. 
+Notwithstanding the foregoing, we may choose not to accept an Affiliate Lead in our reasonable discretion. If an Affiliate Lead does not purchase the Commission Service within the time period described on the applicable 
+https://www.digitalocean.com/legal/affiliate-program-agreement 5/18
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+Affiliate Tool (or if applicable, in the Program Policies) of their first click on the Affiliate Link, you will not be eligible for a Commission payment, even if the Affiliate Lead decides to purchase after the time period has expired. An Affiliate Lead is not considered valid if the prospectʼs first click on the 
+Affiliate Link is after this Agreement has expired or terminated. We reserve the right to determine the validity and acceptance of any Affiliate Leads at our own discretion, without providing any explanation or justification. We will notify you if a an Affiliate Lead is accepted within three 3) to five 5) months of its submission. If we do not contact you regarding an Affiliate Lead within five 5) months of its submission you will not be eligible for a Commission payment. 
+3.4. Engagement with Prospects. Once we have received the Affiliate Lead information, we may elect to engage with the prospect directly, regardless of whether or not the Affiliate Lead is valid. If an Affiliate Lead is not valid then we may choose to maintain it in our database and we may choose to engage with such Affiliate Lead. Any engagement between DigitalOcean and an 
+Affiliate Lead will be at DigitalOceanʼs discretion. 
+3.5. Commission and Payment. In order to receive payment under this 
+Agreement, you must have: (i) agreed to the terms of this Agreement 
+(generally completed through the applicable Affiliate Tool); (ii) completed all steps necessary to create your account in the applicable Affiliate Tool in 
+accordance with our directions, (iii) have a valid and up-to-date payment method in the Affiliate Tool with such account (iv) completed any and all 
+required tax documentation in order for the applicable Affiliate Tool to 
+process any payments that may be owed to you. We may set out certain 
+holding periods in the Program Policies to establish the validity of a 
+Customer Transaction. We reserve the right to extend the holding period as set out in the Program Policies and without prior notice for as long as is 
+reasonably necessary in order to establish the validity of a Customer 
+Transaction. We reserve the right to deduct from your current and future Commissions any and all Commissions paid out for Customer Transactions that are fraudulent, questionable, or canceled. Where no current and future commissions are due, we will send you a bill for the balance of such 
+refunded purchase upon termination of the program or termination of the referred customer account. 
+3.6. Requirements for Payment; Forfeiture. Notwithstanding the foregoing or anything to the contrary in this Agreement, if any of the requirements set forth in section 4(a)(i-iv) remain outstanding for six 6) months immediately following the close of a Customer Transaction, then your right to receive Commission arising from any and all Customer Transactions with the 
+associated Customer will be forever forfeited (each, a “Forfeited 
+https://www.digitalocean.com/legal/affiliate-program-agreement 6/18
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+Transaction”). We will have no obligation to pay you Commission associated with a Forfeited Transaction. Once you comply with all of the requirements in section 5(a)(i-iv), then you will be eligible to receive Commission on 
+Customer Transactions, as long as these Customer Transactions do not 
+involve the same Customer associated with a Forfeited Transaction. 
+3.7. Commission Payment. We or the applicable Affiliate Tool will determine the currency in which we pay the Commission, as well as the applicable 
+conversion rate. Unless otherwise provided in our Program Policies, we will not pay more than one Commission payment or other similar referral fee on any given Customer Transaction (unless we choose to in our discretion). 
+3.8. Taxes. You are responsible for payment of all taxes and fees (including bank fees) applicable to the Commission. All amounts payable by us to you are subject to offset by us against any amounts owed by you to us. 
+Commission Amounts. We reserve the right to alter or change the 
+Commission amount as per the applicable Affiliate Tool(or Program Policies). 
+ Training and Support 
+4.1. We may make available to you, without charge, various webinars and other resources made available as part of our Affiliate Program. If we make such resources available to you, you will encourage your sales 
+representatives and/or other relevant personnel to participate in training 
+and/or other certifications as we recommend and may make available to you from time-to-time. We may change or discontinue any or all parts of the 
+Affiliate Program benefits or offerings at any time without notice. 
+ Trademarks 
+5.1. You grant to us a nonexclusive, non-transferable, royalty-free right to use and display your trademarks, service marks and logos (“Affiliate Marks”) in connection with the Affiliate Program and this Agreement. 
+5.2. During the term of this Agreement, in the event that we make our 
+trademark available to you within the applicable Affiliate Tool, you may use our trademark as long as you follow the usage requirements in this section. You must: (i) only use the images of our trademark that we make available to you, without altering them in any way; (ii) only use our trademarks in 
+connection with the Affiliate Program and this Agreement; (iii) comply with our Program Policies; and (iv) immediately comply if we request that you discontinue use. You must not: (i) use our trademark in a misleading or 
+disparaging way; (ii) use our trademark in a way that implies we endorse, sponsor or approve of your services or products; or (iii) use our trademark in https://www.digitalocean.com/legal/affiliate-program-agreement 7/18
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+violation of applicable law or in connection with an obscene, indecent, or unlawful topic or material. 
+ Proprietary Rights 
+6.1. DigitalOcean Proprietary Rights. No license to any software is granted by this Agreement. The DigitalOcean Services are protected by intellectual 
+property laws. The DigitalOcean Services belong to and are the property of us or our licensors (if any). We retain all ownership rights in the DigitalOcean Services. You agree not to copy, rent, lease, sell, distribute, or create 
+derivative works based on the DigitalOcean Content, or the DigitalOcean Services in whole or in part, by any means, except as expressly authorized in writing by us. If you wish to use DigitalOcean Content, you must comply with our content usage guidelines as outlined in the Program Policies. 
+DigitalOcean, the DigitalOcean logos, and other marks that we use from time to time are our trademarks and you may not use them without our prior 
+written permission, except as otherwise set forth in this Agreement. We 
+encourage all customers, affiliates and partners to comment on the 
+DigitalOcean Services, provide suggestions for improving them, and vote on suggestions they like. You agree that all such comments and suggestions will be non-confidential and that we own all rights to use and incorporate them into the DigitalOcean Services, without payment to you. 
+6.2. Customerʼs Proprietary Rights. As between you and Customer, Customer retains the right to access and use the Customer portal associated with the DigitalOcean Services. For the avoidance of doubt, Customer will own and retain all rights to the Customer Data. 
+ Confidentiality 
+7.1. To the extent you receive or possess any nonpublic information from us that is designated confidential or, given the nature of the information or 
+circumstances surrounding its disclosure, reasonably should be understood to be confidential, such information is our “Confidential Information” and must be handled according to this Agreement. Confidential Information 
+includes but is not limited to: (a) nonpublic information about our technology, customers, business plans, marketing and sales activities, finances, 
+operations and other business information; and (b) the existence and content of our discussions or negotiations with you regarding your Account and/or use of the Services. Confidential Information does not include any 
+information that: (i) is or becomes publicly available without breach of this Agreement; (ii) can be shown by documentation to have been known to you at the time of your receipt from us; (iii) is received from a third party who did 
+https://www.digitalocean.com/legal/affiliate-program-agreement 8/18
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+not acquire or disclose the information by a wrongful or tortious act or by violating the rights of us or third parties; or (iv) can be shown by 
+documentation to have been independently developed by you without 
+reference to the Confidential Information. 
+7.2. You may not use Confidential Information except in connection with your participation in the Affiliate Program as permitted under this Agreement or as separately authorized in a signed writing by us. You agree to not disclose Confidential Information during the term of this Agreement, after you cease being part of our Affiliate Program and after this Agreement otherwise no longer applies. You will take all reasonable measures to avoid disclosure or unauthorized use of Confidential Information, including at least the measures you take to protect your own confidential information of a similar nature. 
+ Opt Out and Unsubscribing 
+8.1. You will comply promptly with all opt out, unsubscribe, “do not call” and “do not send” requests. For the duration of this Agreement, you will establish and maintain systems and procedures appropriate to effectuate all opt out, unsubscribe, “do not call” and “do not send” requests. 
+ Term and Termination 
+9.1. Term. This Agreement will apply for as long as you participate in the 
+Affiliate Program, until terminated. 
+9.2. Termination Without Cause. Both you and we may terminate this 
+Agreement on fifteen 15) days written notice to the other party. 
+9.3. Termination for Agreement Changes. If we update or replace the terms of this Agreement, you may terminate this Agreement on five 5) days written notice to us, provided that you send us written notice within ten 10) days after we send you notice of the change. 
+9.4. Termination for Cause. We may terminate this Agreement: (i) upon thirty 30) daysʼ notice to you of a material breach if such breach remains uncured at the expiration of such period, (ii) upon fifteen 15) days notice to you of non-payment of any amount due to us if such amount remains unpaid at the expiration of such period, (iii) immediately, if you become the subject of a petition in bankruptcy or any other proceeding relating to insolvency, 
+receivership, liquidation or assignment for the benefit of creditors, (iv) 
+immediately, if you breach the terms applicable to your use of our Services, including if you default on your payment obligations to us or our affiliate, or (v) immediately, if we determine that you are acting, or have acted, in a way 
+https://www.digitalocean.com/legal/affiliate-program-agreement 9/18
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+that has or may negatively reflect on or affect us, our prospects, or our 
+customers. 
+9.5. Effects of Expiration/Termination. Expiration of this Agreement, and 
+termination of this Agreement: (i) without cause by us,(ii) by you with cause, (iii) by you according to the ‘Termination for Agreement Changesʼ section, shall not affect our obligation to pay you a Commission, so long as the 
+related payment by the Customer Transaction is recognized by us within thirty 30) days after the date of such termination or expiration and provided that in no event shall you be entitled to payment of Commission under this Agreement if you are eligible to receive a revenue share payment under the Solutions Partner Program Agreement. We will not pay you fees on Customer Transactions recognized by us after thirty 30) days after the date of such termination or expiration set out above. Provided however, in the event of termination without cause by you, or for cause by us, our obligation to pay and your right to receive any Commission will terminate upon the date of such termination, regardless of whether you would have otherwise been eligible to receive Commission prior to the date of termination. Except as expressly set forth in this section, you are not eligible to receive a 
+Commission payment after expiration or termination of this Agreement. Upon termination or expiration, you will discontinue all use of the Affiliate Tool that we make available to you for your participation in the Affiliate Program. Upon 
+termination or expiration, an Affiliate Lead is not considered valid, and we may choose to maintain it in our database and engage with such a prospect. Upon termination or expiration, you will immediately discontinue all use of our trademark and references to this Affiliate Program from your website(s) and other collateral. For the avoidance of doubt, termination or expiration of this Agreement shall not cause a Customerʼs agreement to be terminated. 
+ Affiliate Representations and Warranties 
+10.1. You represent and warrant that: (i) you have all sufficient rights and 
+permissions to participate in the Affiliate Program and to provision 
+DigitalOcean with Affiliate Leadʼs for our use in sales and marketing efforts or as otherwise set forth in this Agreement, (ii) your participation in this Affiliate Program will not conflict with any of your existing agreements or 
+arrangements; and (iii) you own or have sufficient rights to use and to grant to us our right to use the Affiliate Marks. 
+10.2. You further represent and warrant that: (i) you will ensure that you are compliant with any trade or regulatory requirements that may apply to your participation in the Affiliate Program (for example, by clearly stating you are a DigitalOcean Affiliate on any website(s) you own where you make an 
+Affiliate Link available); (ii) you will accurately provide in the applicable 
+https://www.digitalocean.com/legal/affiliate-program-agreement 10/18
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+Affiliate Tool all websites and domains you own where you intend to use 
+Affiliate Links to generate Affiliate Leads; (iii) you will not purchase ads that direct to your site(s) or through an Affiliate Link that could be considered as competing with DigitalOceanʼs own advertising, including, but not limited to, our branded keywords; (iv) you will not participate in cookie stuffing or pop ups, false or misleading links are strictly prohibited; (v) you will not attempt 
+to mask the referring URL information; (vi) you will not use your own Affiliate Link to purchase DigitalOcean Services for yourself; and (vii) you will not use any mechanisms to deliver leads other than through an intended consumer. This includes sourcing leads through compilations of personal data such as phonebooks, using fake redirects or other tools or automation devices to generate leads (including but not limited to robots, lframes, or hidden 
+frames), or offering incentives to encourage purchases or signups. 
+ Indemnification 
+11.1. You will indemnify, defend and hold us harmless, at your expense, 
+against any third-party claim, suit, action, or proceeding (each, an “Action”) brought against us (and our officers, directors, employees, agents, service providers, licensors, and affiliates) by a third party not affiliated with us to the extent that such Action is based upon or arises out of (a) your 
+participation in the Affiliate Program, (b) our use of the prospect data you provided us, © your noncompliance with or breach of this Agreement, (d) your use of an Affiliate Tool, or (e) our use of the Affiliate Marks. We will: notify you in writing within thirty 30) days of our becoming aware of any such claim; give you sole control of the defense or settlement of such a 
+claim; and provide you (at your expense) with any and all information and assistance reasonably requested by you to handle the defense or settlement of the claim. You shall not accept any settlement that (i) imposes an 
+obligation on us; (ii) requires us to make an admission; or (iii) imposes 
+liability not covered by these indemnifications or places restrictions on us without our prior written consent. 
+ Disclaimers; Limitations of Liability 
+12.1. Disclaimer of Warranties. WE AND OUR AFFILIATED COMPANIES AND AGENTS MAKE NO REPRESENTATIONS OR WARRANTIES ABOUT THE 
+SUITABILITY, RELIABILITY, AVAILABILITY, TIMELINESS, SECURITY OR 
+ACCURACY OF THE DIGITALOCEAN SERVICES, DIGITALOCEAN CONTENT, THE AFFILIATE PROGRAM OR ANY AFFILIATE TOOL FOR ANY PURPOSE. APPLICATION PROGRAMMING INTERFACES APIs AND ANY AFFILIATE 
+TOOL MAY NOT BE AVAILABLE AT ALL TIMES. TO THE EXTENT PERMITTED BY LAW, THE DIGITALOCEAN SERVICES AND AFFILIATE TOOL ARE 
+https://www.digitalocean.com/legal/affiliate-program-agreement 11/18
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+PROVIDED “AS IS” WITHOUT WARRANTY OR CONDITION OF ANY KIND. WE DISCLAIM ALL WARRANTIES AND CONDITIONS OF ANY KIND WITH 
+REGARD TO THE DIGITALOCEAN SERVICES AND ANY AFFILIATE TOOL 
+INCLUDING ALL IMPLIED WARRANTIES OR CONDITIONS OF 
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NONINFRINGEMENT. 
+12.2. No Indirect Damages. TO THE EXTENT PERMITTED BY LAW, IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, PUNITIVE, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS OR BUSINESS OPPORTUNITIES. 
+12.3. Limitation of Liability. IF, NOTWITHSTANDING THE OTHER TERMS OF THIS AGREEMENT, WE ARE DETERMINED TO HAVE ANY LIABILITY TO YOU OR ANY THIRD PARTY, THE PARTIES AGREE THAT OUR AGGREGATE 
+LIABILITY WILL BE LIMITED TO THE TOTAL COMMISSION AMOUNTS YOU HAVE ACTUALLY EARNED FOR THE RELATED CUSTOMER TRANSACTIONS IN THE TWELVE MONTH PERIOD PRECEDING THE EVENT GIVING RISE TO A CLAIM. 
+12.4. Affiliate Tool. WE DISCLAIM ALL LIABILITY WITH RESPECT TO ANY AFFILIATE TOOL THAT YOU USE. WE DO NOT PROMISE TO MAKE ANY 
+AFFILIATE TOOL AVAILABLE TO YOU, AND WE MAY CHOOSE TO DO SO, OR NOT TO DO SO, IN OUR DISCRETION. 
+12.5. Cookie Duration. COOKIES USED AS PART OF ANY AFFILIATE TOOL HAVE A SET DURATION. IF A POTENTIAL CUSTOMER CLEARS THEIR 
+COOKIES DURING THIS PERIOD, DIGITALOCEAN SHALL NOT BE LIABLE FOR ANY COMMISSIONS THAT MAY HAVE BEEN OWED TO YOU. 
+ Dispute Resolution and Arbitration 
+13.1. In the interest of resolving disputes between you and DigitalOcean in the most expedient and cost-effective manner, and except as described in 
+Section 16.2, you and DigitalOcean agree that every dispute arising in 
+connection with this Agreement will be resolved by binding arbitration. 
+Arbitration is less formal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, may allow for more limited discovery than in court, and can be subject to limited review by courts. Arbitrators can award the same damages and relief that a court can award. This agreement to arbitrate disputes includes all claims arising out of or relating to any 
+aspect of this Agreement, whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and regardless of whether a claim arises during or after the termination of this Agreement, if applicable. 
+https://www.digitalocean.com/legal/affiliate-program-agreement 12/18
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+You understand and agree that, by entering into this Agreement, you and DigitalOcean are each waiving the right to a trial by jury or to participate in a class action. 
+13.2. Despite the other provisions of Section 16, nothing in this Agreement will waive, preclude, or otherwise limit the right of either party to bring an individual action in small claims court. 
+13.3. Any arbitration between you and DigitalOcean will be settled under the Federal Arbitration Act and administered by the American Arbitration 
+Association (“AAA”) under its Consumer Arbitration Rules (collectively, 
+“AAA Rules”) as modified by this Agreement. The AAA Rules and filing forms are available online at www.adr.org, by calling the AAA at 18007787879. The arbitrator has exclusive authority to resolve any dispute relating to the interpretation, applicability, or enforceability of this binding arbitration 
+agreement. 
+13.4. A party who intends to seek arbitration must first send a written notice of the dispute to the other party by certified U.S. Mail or by Federal Express (signature required) or, only if that other party has not provided a current physical address, then by electronic mail (“Notice of Arbitration”). 
+DigitalOceanʼs address for notice is: DigitalOcean, LLC, ATTN Legal, 101 
+Avenue of the Americas, 10th Floor, New York, NY 10013 USA. The Notice of Arbitration must: (a) describe the nature and basis of the claim or dispute; and (b) set forth the specific relief sought (“Demand”). The parties will make good faith efforts to resolve the claim directly, but if the parties do not reach an agreement to do so within 30 days after the Notice of Arbitration is 
+received, you or DigitalOcean may commence an arbitration proceeding. All arbitration proceedings between the parties will be confidential unless 
+otherwise agreed by the parties in writing. During the arbitration, the amount of any settlement offer made by you or DigitalOcean must not be disclosed to the arbitrator until after the arbitrator makes a final decision and award, if any. 
+13.5. Any arbitration hearing will take place at a location to be agreed upon in Manhattan, New York, NY, but if the claim is for $10,000 or less, you may choose whether the arbitration will be conducted: (a) solely on the basis of documents submitted to the arbitrator; (b) through a non-appearance based telephone hearing. If the arbitrator finds that either the substance of your claim or the relief sought in the Demand is frivolous or brought for an 
+improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all fees will be governed by the AAA Rules. In that case, you agree to reimburse DigitalOcean for all monies previously disbursed by it that are otherwise your obligation to pay under the AAA Rules. Regardless of the manner in which the arbitration is conducted, https://www.digitalocean.com/legal/affiliate-program-agreement 13/18
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+the arbitrator must issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of fees or expenses at any time during the 
+proceeding and upon request from either party made within 14 days of the arbitratorʼs ruling on the merits. 
+13.6. You and DigitalOcean agree that each may bring claims against the other only in an individual capacity and not as a plaintiff or class member in any purported class or representative proceeding. Further, unless both you and DigitalOcean agree otherwise, the arbitrator may not consolidate more than one personʼs claims, and may not otherwise preside over any form of a representative or class proceeding. 
+13.7. If any portion of this Section 13 is found to be unenforceable, then that portion will be null and void and the remainder of this Section 13 will 
+reasonably remain in effect. In such event, if Section 13 cannot reasonably remain in effect as a whole, you and DigitalOcean agree that the exclusive jurisdiction and venue described in Section 14.2 will govern any action 
+arising out of or related to this Agreement. 
+ General 
+14.1. Amendment; No Waiver. We may update and change any part or all of this Agreement, including by replacing it in its entirety. If we update or 
+change this Agreement, the updated Agreement will be made available to you via the applicable Affiliate Tool, by email, and/or by updating the “Last Updated” date at the beginning of these Affiliate Program Agreement. The 
+updated Agreement will become effective and binding on the next business day after we or the applicable Affiliate Tool have notified you. When we 
+change this Agreement, the “Last Modified” date above will be updated to reflect the date of the most recent version. We encourage you to review this Agreement periodically. If you donʼt agree to the update, change or 
+replacement, you can choose to terminate as we describe above. No delay in exercising any right or remedy or failure to object will be a waiver of such right or remedy or any other right or remedy. A waiver on one occasion will not be a waiver of any right or remedy on any future occasion. 
+14.2. Applicable Law. This Agreement and any dispute related thereto 
+(including under Section 13) is governed by the laws of the State of New York without regard to conflict of law principles. Subject to Section 13, you and DigitalOcean submit to the personal and exclusive jurisdiction of the state courts and federal courts located within New York County, New York 
+https://www.digitalocean.com/legal/affiliate-program-agreement 14/18
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+for resolution of any lawsuit or court proceeding permitted under this 
+Agreement. 
+14.3. Force Majeure. Neither party will be responsible for failure or delay of performance if caused by: an act of war, hostility, or sabotage; act of God; electrical, internet, or telecommunication outage that is not caused by the obligated party; government restrictions; or other event outside the 
+reasonable control of the obligated party. Each party will use reasonable efforts to mitigate the effect of a force majeure event. 
+14.4. Actions Permitted. Except for actions for nonpayment or breach of a partyʼs proprietary rights, no action, regardless of form, arising out of or 
+relating to this Agreement may be brought by either party more than one 1) year after the cause of action has accrued. 
+14.5. Relationship of the Parties. Both you and we agree that no joint venture, partnership, employment, or agency relationship exists between you and us as a result of this Agreement. 
+14.6. Compliance with Applicable Laws. You shall comply, and shall ensure that any third parties performing sales or referral activities on your behalf comply, with all applicable foreign and domestic laws (including without 
+limitation export laws and laws applicable to sending of unsolicited email), governmental regulations, ordinances, and judicial administrative orders. You shall not engage in any deceptive, misleading, illegal or unethical marketing activities, or activities that otherwise may be detrimental to us, our 
+customers, or to the public. Export laws and regulations of the United States and any other relevant local export laws and regulations may apply to the DigitalOcean Services. You will comply with the sanctions programs 
+administered by the Office of Foreign Assets Control OFAC) of the US 
+Department of the Treasury. You will not directly or indirectly export, re 
+export, or transfer the DigitalOcean Services to prohibited countries or 
+individuals or permit use of the DigitalOcean Services by prohibited 
+countries or individuals. 
+14.7. Severability. If any part of this Agreement is determined to be invalid or unenforceable by applicable law, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most 
+closely matches the intent of the original provision and the remainder of this Agreement will continue in effect. 
+14.8. Notices. Notice will be sent to the contact address set forth herein (as such may be changed by notice given to the other party), and will be 
+deemed delivered as of the date of actual receipt. To DigitalOcean: 
+DigitalOcean, LLC, 101 Avenue of the Americas, 10th Floor, New York, NY https://www.digitalocean.com/legal/affiliate-program-agreement 15/18
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+10013 USA, Attn: General Counsel To you: your address as provided in our affiliate account information for you. We may give electronic notices specific to you by email to your e-mail address(es) on record in our account 
+information for you. We may give notice to you by telephone calls to the 
+telephone numbers on record in our account information for you. 
+14.9. Entire Agreement. This Agreement is the entire agreement between us for the Affiliate Program and supersedes all other proposals and agreements, whether electronic, oral or written, between us. We object to and reject any additional or different terms proposed by you, including those contained in your purchase order, acceptance or website. Our obligations are not 
+contingent on the delivery of any future functionality or features of the 
+DigitalOcean Services or dependent on any oral or written public comments made by us regarding future functionality or features of the DigitalOcean Services. It is the express wish of both you and us that this Agreement and all related documents be drawn up in English. We might make versions of this Agreement available in languages other than English. If we do, the 
+English version of this Agreement will govern our relationship and the 
+translated version is provided for convenience only and will not be 
+interpreted to modify the English version of this Agreement. 
+14.10. Assignment. You will not assign or transfer this Agreement, including any assignment or transfer by reason of merger, reorganization, sale of all or substantially all of its assets, change of control or operation of law, without our prior written consent. We may assign this Agreement to any affiliate or in the event of merger, reorganization, sale of all or substantially all of our 
+assets, change of control or operation of law. 
+14.11. No Third Party Beneficiaries. Nothing in this Agreement, express or implied, is intended to or shall confer upon any person or entity (other than the parties hereto) any right, benefit or remedy of any nature whatsoever under or by reason of this Agreement. 
+14.12. Program Policies. We may change the Program Policies from time to time. Your participation in the Affiliate Program is subject to the Program Policies, which are incorporated herein by reference 
+14.13. No Licenses. We grant to you only the rights and licenses expressly stated in this Agreement, and you receive no other rights or licenses with respect to us, the DigitalOcean Services, our trademarks, or any other 
+property or right of ours. 
+14.14. Sales by DigitalOcean. This Agreement shall in no way limit our right to sell DigitalOcean Services, directly or indirectly, to any current or 
+prospective customers. 
+https://www.digitalocean.com/legal/affiliate-program-agreement 16/18
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+14.15. Authority. Each party represents and warrants to the other that it has full power and authority to enter into this Agreement and that it is binding upon such party and enforceable in accordance with its terms. 
+14.16. Survival. All provisions of this Agreement which by their nature should reasonably be expected to survive termination shall survive termination, 
+including: ‘Commission and Paymentʼ, ‘Proprietary Rightsʼ, ‘Confidentialityʼ, ‘Effects of Termination/Expirationʼ, ‘Indemnificationʼ, ‘Disclaimers; Limitation of Liabilityʼ,and ‘Generalʼ. 
+14.17. Data Processing and Protection. The parties acknowledge that in 
+connection with the Affiliate Program, each party may provide or make 
+available to the other party Personal Data. To the extent that any Personal Data is processed in connection with the Agreement, the terms set forth in the DigitalOcean Data Processing Agreement (posted at: 
+https://www.digitalocean.com/legal/data-processing-agreement), which are hereby incorporated by reference, shall apply. For the purposes of this 
+Agreement, references to Customer in the DigitalOcean Data Processing Agreement shall be deemed to reference the Affiliate as applicable. Each party shall process the copy of the Personal Data in its possession or 
+control: (i) in accordance with the DigitalOcean Data Processing Agreement (ii) as an independent controller (not as a joint controller with the other party) (iii) for the purposes described in this Agreement; and/or (iv) as may 
+otherwise be permitted under applicable Data Protection Law. For the 
+avoidance of doubt, and without prejudice to the foregoing, DigitalOcean shall be an independent controller of any Personal Data that it receives or shares with Affiliate. 
+Company 
+Products 
+Resources 
+https://www.digitalocean.com/legal/affiliate-program-agreement 17/18
+3/11/25, 4:58 PM Legal - Affiliate Program Agreement 
+Solutions 
+Contact 
+© 2025 DigitalOcean, LLC. Sitemap. Cookie Preferences 
+https://www.digitalocean.com/legal/affiliate-program-agreement 18/18

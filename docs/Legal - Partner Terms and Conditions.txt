@@ -1,0 +1,233 @@
+3/11/25, 4:57 PM Legal - Partner Terms and Conditions 
+Products 
+Solutions 
+Developers 
+Partners 
+Pricing 
+Log in Sign up 
+Blog 
+Docs 
+Get Support 
+Contact Sales 
+Legal & Security / Partner Terms and Conditions 
+Partner Terms and Conditions 
+Last Updated on May 15, 2024 
+Introduction 
+Welcome to DigitalOceanʼs Partner Terms and Conditions! We are delighted that you would like to participate in the DigitalOcean Partner Pod (the “Program”). Any person or entity that desires to resell DigitalOcean services (“Services”) or otherwise participate as a partner in the Program must accept the Partner Terms and Conditions (the “Partner Terms”). 
+https://www.digitalocean.com/legal/partner-terms-and-conditions 1/14
+3/11/25, 4:57 PM Legal - Partner Terms and Conditions 
+What other agreements govern my participation in the Program? 
+By participating in the Program, you also accept the following terms and 
+conditions: 
+The DigitalOcean Terms of Service Agreement (including all terms 
+referenced or incorporated therein), which govern access to and use of the Services (the “End Customer Terms”) 
+The DigitalOcean Partner Network Terms and Conditions, which governs the creation of a Partner account (“Partner Account”) and includes terms 
+regarding Program participation (the “Partner Network Terms and 
+Conditions”) 
+The DigitalOcean Marketplace Terms and Conditions. Which governs the Partnerʼs listing of any Vendor Offering on the DigitalOcean Marketplace as those terms are defined therein (the “DigitalOcean Marketplace Terms and Conditions”). 
+The applicable Program Guide(s), which include information about discounts, referral fees (where applicable, and other operational terms and benefits regarding the Program and the Program Tracks (defined below) (the 
+“Program Guide(s)”) 
+These Terms, the Partner Network Terms and Conditions, and the Program Guides are collectively referred to as the “Partner Program Documents.” 
+Who does these Partner Term apply to? 
+When we refer to “DigitalOcean” or we use pronouns like “we” or “our”, we are referring to DigitalOcean, LLC as well as its parents, affiliates and subsidiaries. 
+When we refer to the “Partner,” we are talking about you, and we will also use words like “you” and “your” to refer to you. If you are entering into these Partner Terms on behalf of a company, organization, or other entity, or the Partner application you complete refers to a company, organization or other entity, “Partner,” “you” or “your” means that company, organization or entity. In that case, you are representing to us that you have the authority to bind your company, organization, or other entity to these Terms. If you arenʼt sure what this means or whether you are authorized to bind your company, organization, or entity to this contract, you should ask others in your organization to get clarification about authority. 
+When do the Partner Terms take eect? 
+https://www.digitalocean.com/legal/partner-terms-and-conditions 2/14
+3/11/25, 4:57 PM Legal - Partner Terms and Conditions 
+This Partner Terms takes effect when you click “I accept” or other functionality indicating your acceptance of its terms. If you commence reselling Services, create an Account, or otherwise commence participating in the Program prior to taking any action described in the preceding sentence, you will be deemed to have accepted the Partner Terms and the other Partner Program Documents. 
+Partner Terms 
+ DigitalOcean Partner Program 
+1.1. Appointment as Partner. Subject to the terms and conditions of the 
+Partner Terms and the other Partner Program Documents, we authorize you to promote and/or resell the Services to end customers (“End Customers”) in the Territory in accordance with the Program Track(s) for which you are approved. The terms of each Program Track are further described in Section 1.2 below and in the applicable Program Guide(s). Your right to promote 
+and/or re-sell the Services is non-exclusive and is subject to the terms and conditions set forth in the Partner Program Document. We do not make any minimum commitments in terms of sales, revenue or business. You may not resell the Services to any party other than an End Customer or in any 
+geographic area outside the Territory. “Territory” means those countries and territories where Services are available for purchase directly from 
+DigitalOcean by end users, unless your Account specifies that you are only approved for specific countries and/or territories, in which case the term means those specified countries and/or territories. 
+1.2 Program Tracks. There are two, primary Program tracks for Partners under the Program (“Program Tracks”). The terms in these Partner Terms apply to all Program Tracks, unless the applicable Program Guide expressly states that a specific term does not apply for that Program Track. 
+a. Channel Partner. Channel Partners may resell Services as a standalone offering or together with other products or services, but not as part of a 
+unified product or service offered by the Partner. If you are a Channel 
+Partner, you may be entitled to discounts for your purchase of Services that are resold by you to End Customers. Channel Partners may also be entitled to certain compensation if you refer End Customers to us and they purchase qualifying Services. 
+b. Independent Software Vendor ISV Partner. ISV Partners either resell Services as part of a product or service offered by the Partner or 
+independently make and sell software products that run on one or more 
+computer hardware or operating systems. If you are a ISV Partner, you may be entitled to discounts for your purchase of Services, compensation if you refer End Customers to us and they purchase qualifying Services, or revenue 
+https://www.digitalocean.com/legal/partner-terms-and-conditions 3/14
+3/11/25, 4:57 PM Legal - Partner Terms and Conditions 
+share for software, data, media, service, product, Add-On, or other offerings you offer to DigitalOcean End Customers. 
+If you are approved to participate in the Program, your Account will specify which Program Tracks you may participate in, and you will be asked to 
+accept the corresponding Program Guide(s) when you click “I accept” or other functionality indicating your acceptance of its terms. We may create additional Program Tracks in the future and may change the rights and 
+responsibilities associated with any Program Track at our discretion. 
+Changes will generally be included in updates to the applicable Program Guide(s). We may also eliminate one or more Program Tracks. If we elect to eliminate any Program Track that you are participating in, we will use 
+commercially reasonable efforts to provide advance notice to you. 
+1.3.End Customers and End Customer Terms. The End Customer Terms govern use of the Services. You may not add to or vary the terms and 
+conditions in the End Customer Terms, except that you will independently establish the pricing and payment terms if you re-sell the Services to End Customers. If you are participating in any Program Track that involves the reselling of Services, you are responsible for ensuring that each End 
+Customer agrees to the End Customer Terms in a manner that is legally 
+binding upon the End Customer. We may refuse to enable or provide 
+Services to an End Customer until we have confirmed (either through an End Customerʼs acceptance of the End Customer Terms through our site or 
+through written documentation from you) that the End Customer has 
+accepted the End Customer Terms. You will notify us immediately if you 
+know or suspect that any End Customer has breached the End Customer Terms or made unauthorized use of the Services. You must ensure that your End Customers comply with the End Customer Terms. 
+1.4.Changes to Services. You acknowledge that we may modify a Service, release a new version of a Service or terminate a Service at any time. We reserve the right to add new features or functionality to, or remove existing features or functionality from, a Service at any time. 
+1.5.Identification as a Partner. The Partner Program Documents include 
+information about how you may market your participation in the Program. You may identify yourself as a DigitalOcean Partner solely in connection with the resale or authorized promotion of the Services. These Partner Terms do not grant you any right to use the DigitalOcean name or any DigitalOcean logos, trademarks, services marks or other DigitalOcean IP (as defined 
+below) except as expressly permitted below or in the applicable Program Guide. 
+https://www.digitalocean.com/legal/partner-terms-and-conditions 4/14
+3/11/25, 4:57 PM Legal - Partner Terms and Conditions 
+ Payments for Services. 
+2.1 End Customer Payments. When you re-sell the Services to an End 
+Customer, you bear all risk of non-payment by the End Customer. Your 
+obligation to pay DigitalOcean for any Services is independent from the End Customerʼs obligations to you. You will not be entitled to any refunds from us if your End Customers fail to pay. 
+2.2 Payments to DigitalOcean. You are responsible for paying for all 
+Services that you and your End Customers use or consume under your 
+Account. All amounts owing to DigitalOcean will be paid in accordance with the payment terms in the End Customer Terms. Our standard pricing for all Services applies, but you may be eligible for discounts for Services that you resell to End Customers, as provided in the applicable Program Guide(s). If you are eligible for any discounts in connection with your resale of Services, those discounts will be reflected on your invoice for the applicable Services. All payments are non-refundable. Unless otherwise stated, all prices exclude any taxes or duties payable with respect to the Services, and you are 
+responsible for paying all taxes and duties associated with your purchase and resale of the Services. 
+2.3 DigitalOcean Contracting Party. Amounts owing for the Services and any Program fees specified in the Program Guides may be invoiced by 
+DigitalOcean LLC or an affiliate of DigitalOcean, LLC, based on, among other things, the country or territory in which the Services are provided or 
+consumed. If there is consumption or use under your Account in more than one country or territory or you are participating in the Program in one or 
+more countries or territories, you may receive invoices from multiple 
+DigitalOcean entities based on the seller of record in those countries and territories. You will pay each such invoice in accordance with the terms in the End Customer Terms. 
+2.4. Payments to Partner. If you are participating in any Program Track that requires DigitalOcean to compensate you based on the referral of 
+prospective End Customers, the amount and timing of the relevant payments or other consideration will be set forth in the applicable Program Guide. If we owe you any amounts through your participation in the Program Track, we may set off or deduct any such amounts from amounts that you owe to us. We may withhold payment from you during any period in which you are in breach of any of the Partner Program Document. 
+ Term; Termination. 
+https://www.digitalocean.com/legal/partner-terms-and-conditions 5/14
+3/11/25, 4:57 PM Legal - Partner Terms and Conditions 
+3.1 Term. These Partner Terms are effective as of the Effective Date and will continue until terminated as described in this section (the “Term”). 
+3.2 Termination. We may terminate these Partner Terms for convenience upon thirty 30) daysʼ written notice to you. You may terminate the Partner Terms for convenience upon ninety 90) daysʼ written notice to us. We may also terminate these Partner Terms if (a) you materially breach any provision of the Partner Terms, the End Customer Terms or any Partner Program 
+Document and fail to cure such breach within five 5) days after receipt of written notice of such breach or (b) your End Customer Terms are 
+terminated for any reason. 
+3.3 Effect of Termination. Upon termination for any reason, (a) you must cease identifying as a DigitalOcean Partner; (b) you must destroy or return all of our Confidential Information in your possession; © you will no longer be authorized to resell Services, to the extent you had previously been on a Program Track that permits it; and (d) at our request, you will notify End 
+Customers that continued use of the Services will require the End Customer to purchase the Services directly from us or another one of our authorized partners. We may also contact End Customers directly regarding the 
+continuation of Services after termination. Any communication to End 
+Customers under subsection (d) must be approved by us before it is sent. We may agree, in our sole discretion, to continue to provide Services to End Customers during an agreed transition period, in which case the Partner 
+Terms and the Partner Program Documents (including your obligation to pay for the Services) will continue to apply until the transition period ends. 
+Sections 1.3, 1.4, 2, 3.3, 3.4, 410 of the Partner Terms (along with any other provisions of the Partner Terms or any other Partner Program Document that reasonably should be interpreted as surviving the termination of the Partner 
+Terms) survive any termination. We will have no obligation or liability to you or your End Customers as a result of any termination of the Partner Terms. 
+3.4. Temporary Suspension of Services. You acknowledge that we may temporarily or permanently disable or terminate an End Customerʼs access to and use of the Services where permitted by the End Customer Terms or if you fail to make any payments owing to us in respect of the Services. You will defend, indemnify and hold us harmless from any claims, actions or 
+proceedings by End Customers or any other third parties and any associated liabilities, losses, costs, damages and expenses (including attorneysʼ fees and costs) resulting from our exercise of our rights under the preceding 
+sentence. 
+ Intellectual Property Rights. 
+https://www.digitalocean.com/legal/partner-terms-and-conditions 6/14
+3/11/25, 4:57 PM Legal - Partner Terms and Conditions 
+4.1 Ownership. As between you and DigitalOcean, DigitalOcean owns all 
+worldwide intellectual property rights in and to the Services, the underlying technology and any associated documentation or materials (including the Partner Program Documents), and DigitalOceanʼs name, logos, trademarks, service marks and any associated intellectual property or proprietary rights (collectively, the “DigitalOcean IP”), and any sale of the Services to you does not constitute any assignment or transfer of DigitalOcean IP. Any rights not expressly granted to you in DigitalOcean IP are hereby reserved by 
+DigitalOcean. 
+4.2 Partner Materials. We may list your name, website, and other general contact information on any of our Program-related or other sites. If you 
+provide any trademark, service mark, trade name, other proprietary logo or insignia, URL, domain name, or other source or business identifier, or any other text, images, audio, video, or other content (“Partner Materials”) to us, then you grant to us a worldwide, royalty-free, non-exclusive license to use, reproduce, display, distribute, and translate all or any part of the Partner 
+Materials in connection with the Program and to sublicense these rights. You will ensure you have all rights necessary to grant us the foregoing license. We may make reasonable, minor changes to Partner Materials, such as 
+resizing or reformatting Partner Materials. As between us, you own and 
+reserve all right, title, and interest in and to the Partner Materials. The End Customer Terms govern our use of any content or other information that you submit to or that are stored or processed by the Services. 
+4.3 Feedback. If you provide any suggestions or feedback relating to any DigitalOcean IP (“Feedback”) to us, then you grant us an irrevocable, 
+perpetual, transferable, sublicensable, worldwide, paid-up, royalty-free 
+license to use the Feedback without restriction. 
+ Partner Obligations; Program Guide. You will (a) not represent yourself as an agent or employee of DigitalOcean; (b) not to make any representations or warranties regarding DigitalOcean or the Services; © not engage in any deceptive, misleading, illegal, or unethical practices in connection with the promotion or resale of the Services; (d) comply with all applicable laws and 
+regulations while operating under these Partner Terms, including without limitation those related to privacy and data protection; (e) ensure that all 
+information that you submit to us in connection with the Program is accurate and complete; and (f) abide by the applicable Program Guide(s). 
+ Confidentiality. From time to time, we may disclose to you non-public or proprietary information, either directly or indirectly, that is designated as confidential, or would otherwise reasonably be considered confidential given https://www.digitalocean.com/legal/partner-terms-and-conditions 7/14
+3/11/25, 4:57 PM Legal - Partner Terms and Conditions 
+the nature of the information and the circumstances of the disclosure 
+(“Confidential Information”). Any know-how, designs, code, engineering details and other data pertaining to the Services will, without further need for designation, be deemed Confidential Information of DigitalOcean, including the terms of the Partner Program Documents. You agree (a) not to disclose or use the Confidential Information for any purpose except in connection with the performance or enforcement of the Partner Terms and (b) to 
+preserve the confidentiality of the Confidential Information using the degree of care which you ordinarily use with respect to your own confidential 
+information of like nature, but in no event with less than reasonable care. Confidential Information does not include any information which you can establish: (i) is generally publicly available after through no action or inaction of yours; (ii) is rightfully in your possession, without confidentiality 
+restrictions; or (iii) is independently developed by you without reliance on the Confidential Information. Notwithstanding the foregoing, you may disclose Confidential Information pursuant to the order or requirement of a court, 
+administrative agency, or other governmental body, but you must provide prompt notice thereof to us and will use reasonable efforts to obtain a 
+protective order or otherwise prevent public disclosure of such information. 
+ Indemnification. You will indemnify, defend, and hold DigitalOcean and our respective directors, officers, employees, agents and licensors harmless from and against any claim, action or proceeding brought by a third party and any resulting liabilities, losses, costs, damages and expenses (including attorneysʼ fees and costs) arising from or related to any of the following 
+(each, an “Indemnified Claim”): (a) your actual or alleged breach of the 
+Partner Terms or any Partner Program Document; (b) any warranties or 
+representations you or any of your End Customers make regarding the 
+Services; © your relationship with End Customers, including your use or 
+disclosure of any End Customer information; (d) your resale of the Services; (e) your products or services or the products or services of any third parties that you offer or sell to End Customers; (f) your failure to comply with any applicable law, rule or regulation; or (g) except to the extent caused by our breach of any Partner Program Document, your participation in the Program. We will promptly notify you in writing of any Indemnified Claim. Our failure to promptly notify you will not affect your obligation to indemnify us except to the extent it materially and negatively affects your ability to defend the 
+Indemnified Claim. We will give you reasonable assistance in defending 
+Indemnified Claims. We may participate in the defense of any Indemnified Claim at our cost. You will not settle any Indemnified Claim without our prior written consent. 
+https://www.digitalocean.com/legal/partner-terms-and-conditions 8/14
+3/11/25, 4:57 PM Legal - Partner Terms and Conditions 
+ DISCLAIMER. ANY AND ALL COMMITMENTS AND WARRANTIES WITH 
+RESPECT TO THE SERVICES ARE CONTAINED IN THE END CUSTOMER 
+TERMS. DIGITALOCEAN MAKES NO OTHER WARRANTIES, EXPRESS, 
+IMPLIED OR STATUTORY, INCLUDING ANY IMPLIED WARRANTIES OF 
+FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, TITLE, OR 
+NONINFRINGEMENT OR ARISING FROM COURSE OF PERFORMANCE, 
+COURSE OF DEALING OR USAGE OF TRADE UNDER THE PARTNER TERMAS OR RELATING TO THE PROGRAM OR THE SERVICES. YOU ACKNOWLEDGE THAT YOU HAVE NOT RELIED ON ANY WARRANTIES WITH RESPECT TO THE SERVICES WHEN ENTERING INTO THE PARTNER TERMS. 
+ LIMITATION OF LIABILITY. TO THE FULLEST EXTENT ALLOWED BY LAW, I IN NO EVENT WILL DIGITALOCEAN OR OUR LICENSORS BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE SERVICES BY ANYONE, FOR LOSS OF DATA, OR FOR ANY CONSEQUENTIAL, INDIRECT, EXEMPLARY, SPECIAL OR INCIDENTAL DAMAGES, OR LOST PROFITS OR LOST REVENUE, GOODWILL OR BUSINESS, ARISING FROM OR RELATING TO THE PARTNER TERMS, THE PROGRAM OR THE PARTNER PROGRAM DOCUMENTS, 
+HOWEVER CAUSED, WHETHER FOR BREACH OF CONTRACT, NEGLIGENCE OR OTHERWISE AND WHETHER OR NOT WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND II DIGITALOCEANʼS TOTAL 
+LIABILITY FOR ANY CLAIM UNDER THE PARTNER TERMS OR ANY OF THE PARTNER PROGRAM DOCUMENTS WILL NOT EXCEED THE AMOUNTS YOU HAVE ACTUALLY PAID TO DIGITALOCEAN IN THE MONTH IMMEDIATELY PRECEDING THE CLAIM. THIS SECTION DOES NOT MODIFY OR EXPAND THE LIMITATIONS ON LIABILITY IN THE END CUSTOMER TERMS TO THE EXTENT THEY APPLY. YOU ACKNOWLEDGE THAT THESE LIMITATIONS ON LIABILITY ARE ESSENTIAL TO OUR WILLINGNESS TO ENTER INTO THE 
+PARTNER TERMS AND OFFER THE PROGRAM. 
+ General. 
+10.1 Independent Contractor. Our relationship is one of independent 
+contractors. Neither of us has any authority to bind the other, to assume or create any obligation, to enter into any agreements, or to make any 
+warranties or representations on behalf of the other. Your agreements with End Customers are your exclusive responsibility and will not affect our rights or obligations under any agreement we have with End Customers (including the End Customer Terms). The use of the term “Partner” refers solely to your participation in the Program and not to a legal relationship. Neither party, nor any of its affiliates, is an agent of the other for any purpose or has the 
+authority to bind the other. 
+https://www.digitalocean.com/legal/partner-terms-and-conditions 9/14
+3/11/25, 4:57 PM Legal - Partner Terms and Conditions 
+10.2 Public Announcements. Without our prior written consent, you will not issue any press release or make any other public announcement that (a) 
+includes DigitalOceanʼs name, logos, trademarks or other DigitalOcean IP or (b) relates to the subject matter of the Partner Terms or the Partner Program Documents. 
+10.3 Assignment. Neither of us may assign or transfer the Partner Terms or any Partner Program Document or any rights under this the Partner Terms or any Partner Program Document without the prior written consent of the other party; provided, however, that we may assign or transfer the Partner Terms or any Partner Program Document, in whole or in part, to an affiliate or 
+pursuant to a transfer of all or substantially all of our business or assets 
+which relate to the Partner Terms, whether by merger, sale of assets, sale of stock or otherwise. Subject to the foregoing, the Partner Terms and the 
+Partner Program Documents will be binding upon and will inure to the benefit of the parties, our successors, and permitted assigns. Any assignment in violation of the foregoing is void. 
+10.4 Governing Law; Dispute Resolution. 
+a. The Partner Terms and the Partner Program Documents are governed by the laws of the State of New York without regard to conflict of law principles. The terms of the United Nations Convention on Contracts for the Sale of 
+Goods and the Uniform Computer Information Transactions Act do not apply to the Partner Terms or any Partner Program Document. Subject to Sections 10.4(b) – (g), we each submit to the personal and exclusive jurisdiction of the 
+state courts and federal courts located within New York County, New York for resolution of any lawsuit or court proceeding relating to the Partner 
+Terms or any other Partner Program Document. For clarity, the End Customer Terms govern the resolution of any claim relating to the Services or 
+otherwise within the scope of that agreement. 
+b. In the interest of resolving disputes between us in the most expedient and cost-effective manner, and except as described below, every dispute arising in connection with the Partner Terms, the Program or any other Partner 
+Program Document will be resolved by binding arbitration. Arbitration is less formal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, may allow for more limited discovery than in court, and can be subject to limited review by courts. Arbitrators can award the same 
+damages and relief that a court can award. This agreement to arbitrate 
+disputes includes all claims arising out of or relating to any aspect of the Partner Terms, the Program or the Partner Program Documents, whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and regardless of whether a claim arises during or after the 
+termination of the Partner Terms, if applicable. You understand and agree https://www.digitalocean.com/legal/partner-terms-and-conditions 10/14
+3/11/25, 4:57 PM Legal - Partner Terms and Conditions 
+that, by entering into the Partner Terms, we are each waiving the right to a trial by jury or to participate in a class action. Notwithstanding the foregoing, we may pursue injunctive relief or any claim relating to the infringement or misappropriation of DigitalOcean IP in court and without reference to these mandatory arbitration provisions. 
+c. Any arbitration between us will be settled under the Federal Arbitration Act and administered by the American Arbitration Association (“AAA”). The 
+arbitrator has exclusive authority to resolve any dispute relating to the 
+interpretation, applicability, or enforceability of this binding arbitration 
+agreement. 
+d. A party who intends to seek arbitration must first send a written notice of the dispute to the other party by certified U.S. Mail or by Federal Express (signature required) or, only if that other party has not provided a current physical address, then by electronic mail (“Notice of Arbitration”). Our 
+address for notice is: DigitalOcean, LLC, ATTN Legal, 101 Avenue of the 
+Americas, 10th Floor, New York, NY 10013 USA. We will use the address 
+associated with your Account. The Notice of Arbitration must: (i) describe the nature and basis of the claim or dispute; and (ii) set forth the specific relief sought (“Demand”). We will each make good faith efforts to resolve the claim directly, but if we do not reach an agreement to do so within 30 days after the Notice of Arbitration is received, either of us may commence an arbitration proceeding. All arbitration proceedings between us will be 
+confidential unless otherwise agreed by each of us in writing. During the arbitration, the amount of any settlement offer made by either of us must not be disclosed to the arbitrator until after the arbitrator makes a final decision and award, if any. 
+e. Any arbitration hearing will take place at a location to be agreed upon in Manhattan, New York, NY. The arbitrator must issue a reasoned written 
+decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of fees or 
+expenses at any time during the proceeding and upon request from either party made within 14 days of the arbitratorʼs ruling on the merits. 
+f. Either of us may bring claims against the other only in an individual 
+capacity and not as a plaintiff or class member in any purported class or representative proceeding. Further, unless we agree otherwise, the arbitrator may not consolidate more than one personʼs claims, and may not otherwise preside over any form of a representative or class proceeding. 
+g. If any portion of this Section 10.4 is found to be unenforceable, then that portion will be null and void and the remainder of this Section 10.4 will 
+https://www.digitalocean.com/legal/partner-terms-and-conditions 11/14
+3/11/25, 4:57 PM Legal - Partner Terms and Conditions 
+reasonably remain in effect. In such event, if Section 10.4 cannot reasonably remain in effect as a whole, the exclusive jurisdiction and venue described in Section 10.4(a) will govern any action arising out of or related to the Partner Terms, the Program or any other Partner Program Document. 
+10.5 Trade Compliance. Each of us will comply with all applicable import, re import, sanctions, anti-boycott, export, and re-export control laws and 
+regulations, including all such laws and regulations that apply to a U.S. 
+company, such as the Export Administration Regulations, the International Traffic in Arms Regulations, and economic sanctions programs implemented by the Office of Foreign Assets Control. You represent and warrant that you and your financial institution(s), or any party that owns or controls you or your financial institution, are not subject to sanctions or otherwise 
+designated on any list of prohibited or restricted parties, including but not limited to the lists maintained by the United Nations Security Council, the U.S. Government (e.g., the Specially Designated Nationals List and Foreign Sanctions Evaders List of the U.S. Department of Treasury, and the Entity List of the U.S. Department of Commerce), the European Union or its 
+Member States, or other applicable government authority. You will not 
+directly or indirectly export, re-export, transmit, or cause to be exported, re exported or transmitted, any of our commodities, software, or technology (“Items”) to any country, individual, corporation, organization, or entity to which such export, re-export, or transmission is restricted or prohibited, 
+including to any country, individual, corporation, organization, or entity under sanctions or embargoes administered by the United Nations, U.S 
+Departments of State, Treasury or Commerce, the European Union, or any other applicable government authority unless such activity is authorized by law pursuant to a license or other government authorization. 
+10.6 Force Majeure. We are not liable for any delay or failure to perform any obligation under the Partner Terms or any Partner Program Document where the delay or failure results from any cause beyond our reasonable control, including acts of God, labor disputes or other industrial disturbances, 
+electrical or power outages, utilities or other telecommunications failures, earthquake, storms or other elements of nature, blockages, embargoes, 
+riots, acts or orders of government, acts of terrorism, or war. 
+10.7 Severability. If any provision of the Partner Terms or any Partner 
+Program Document is unenforceable such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will 
+continue in full force and effect. 
+10.8 Language. All communications and notices made or given pursuant to the Partner Terms or any Partner Program Document must be in the English https://www.digitalocean.com/legal/partner-terms-and-conditions 12/14
+3/11/25, 4:57 PM Legal - Partner Terms and Conditions 
+language. If we provide a translation of the English language version of the Partner Terms or any Partner Program Document, the English language 
+version will control if there is any conflict. 
+10.9 No Third-Party Beneficiaries. The Partner Terms and the other Partner Program Documents do not create any third-party beneficiary rights in any individual or entity that is not a party hereto. 
+10.10 Entire Agreement. The Partner Terms and the Partner Program 
+Documents (including any documents or agreements referenced or 
+incorporated therein and as the same may be updated from time to time) constitute the final, complete, and exclusive statement of the terms of the agreement between us as to the subject matter hereof and thereof, and 
+supersedes all prior and contemporaneous agreements, representations and understandings of the parties. 
+10.11 Updates and Modifications to Partner Terms and Partner Program Documents. We reserve the right to update, change or otherwise modify the Partner Terms and the other Partner Program Documents on a going-forward basis at any time and in our sole discretion. If we update the Partner Terms or any Partner Program Document, we may provide notice of such updates, such as by sending an email notification to the email address listed in your Account and/or updating the “Last Updated” date at the beginning of the Partner Terms or a Partner Program Document. Updates will be effective on the date specified in the notice. By continuing to resell Services or 
+participate in the Program after the date specified in the notice or updated terms, you are agreeing to accept and be bound by the updated terms. If you do not agree to the updated terms, then you may not continue to resell the Services or participate in the Program and your sole and exclusive remedy is to terminate the Partner Terms and otherwise cease participation in the 
+Program. Any ambiguity, conflict or inconsistency between the Partner 
+Program Documents or the End Customer Terms and any Partner Program Document that is not resolved on the face of the documents shall be 
+resolved according to the following order of precedence: the End Customer Terms (including documents incorporated by reference therein), the Partner Terms, the Partner Network Terms and Conditions, the Program Guides and documents incorporated by reference into any of the foregoing. 
+https://www.digitalocean.com/legal/partner-terms-and-conditions 13/14
+3/11/25, 4:57 PM Legal - Partner Terms and Conditions 
+Company 
+Products 
+Resources 
+Solutions 
+Contact 
+© 2025 DigitalOcean, LLC. Sitemap. Cookie Preferences 
+https://www.digitalocean.com/legal/partner-terms-and-conditions 14/14
