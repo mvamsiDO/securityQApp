@@ -2,25 +2,40 @@ import streamlit as st
 import pandas as pd
 import time
 import json
+import os
 from io import BytesIO
 from chatbot import ask_question  # Import the function from chatbot.py
 
-st.title("Security Policy Q&A Agent")
-
-st.markdown("Upload an Excel file (.xlsx) containing your security questions (first column).")
-uploaded_file = st.file_uploader("Upload Excel", type=["xlsx"])
-
-if uploaded_file is not None:
-    df = pd.read_excel(uploaded_file)
+def process_security_questions(uploaded_file):
+    """
+    Process security questions from an Excel file and get answers using the chatbot.
     
-
-    if st.button("Process Questions"):
+    Args:
+        uploaded_file: The uploaded Excel file
+    
+    Returns:
+        DataFrame with questions and answers
+    """
+    try:
+        df = pd.read_excel(uploaded_file)
+        
+        # Find the questions column
+        question_col_index = None
+        for i, col in enumerate(df.columns):
+            if 'question' in str(col).lower():
+                question_col_index = i
+                break
+        
+        if question_col_index is None:
+            st.error("Could not find a column containing 'question' in its name")
+            return None
+        
         answers = []
         progress_bar = st.progress(0)
         num_rows = len(df)
         
         for i in range(num_rows):
-            question = str(df.iloc[i, 0])
+            question = str(df.iloc[i, question_col_index])
             st.write(f"Processing question {i+1}: {question}")
             response = ask_question(question)
             try:
@@ -32,7 +47,6 @@ if uploaded_file is not None:
                 answer_data = {
                     "answer": "Not Sure",
                     "reasoning": "Failed to get a proper response",
-                    "source": ""
                 }
             answers.append(answer_data)
             progress_bar.progress((i + 1) / num_rows)
@@ -41,14 +55,29 @@ if uploaded_file is not None:
         # Add the results to the DataFrame as new columns
         df["Answer"] = [a.get("answer", "") for a in answers]
         df["Reasoning"] = [a.get("reasoning", "") for a in answers]
-        df["Evidence"] = [a.get("source", "") for a in answers]
         
-        st.write("Processed Data:", df)
+        return df
+    except Exception as e:
+        st.error(f"Error processing file: {str(e)}")
+        return None
 
-        # Create an Excel file for download
-        output = BytesIO()
-        with pd.ExcelWriter(output, engine='openpyxl') as writer:
-            df.to_excel(writer, index=False, sheet_name="Results")
-        processed_excel = output.getvalue()
+# Main Streamlit app
+st.title("Security Policy Q&A Agent")
 
-        st.download_button("Download Processed Excel", processed_excel, "Processed_Questions.xlsx")
+st.markdown("Upload an Excel file (.xlsx) containing your security questions.")
+uploaded_file = st.file_uploader("Upload Excel", type=["xlsx"])
+
+if uploaded_file is not None:
+    if st.button("Process Questions"):
+        processed_df = process_security_questions(uploaded_file)
+        
+        if processed_df is not None:
+            st.write("Processed Data:", processed_df)
+
+            # Create an Excel file for download
+            output = BytesIO()
+            with pd.ExcelWriter(output, engine='openpyxl') as writer:
+                processed_df.to_excel(writer, index=False, sheet_name="Results")
+            processed_excel = output.getvalue()
+
+            st.download_button("Download Processed Excel", processed_excel, "Processed_Questions.xlsx")
