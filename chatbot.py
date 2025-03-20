@@ -5,17 +5,18 @@ from dotenv import load_dotenv
 # Load environment variables from .env
 load_dotenv()
 
-AGENT_ENDPOINT = os.getenv("AGENT_ENDPOINT")
+AGENT_ENDPOINT = os.getenv("AGENT_ENDPOINT") + "/api/v1/chat/completions"
+
 AGENT_ACCESS_KEY = os.getenv("AGENT_ACCESS_KEY")
 
 # Base prompt with your instructions
 base_prompt = (
     """  
-You are a security policy Q&A assistant. Your only source of knowledge is the attached knowledge base (PDF documents).
+You are a security policy Q&A assistant. Your only source of knowledge is the attached knowledge base.
 
 Rules for Answering:
 
-1. Always retrieve the most relevant sections from the knowledge base before responding. Search across all PDFs and analyze multiple sections before concluding an answer. 
+1. Always retrieve the most relevant sections from the knowledge base before responding. Search across all documents and analyze multiple sections before concluding an answer. 
 2. Always provide an answer: Yes, No, or Maybe. If unclear, select Maybe.  
 3. Read and compare all relevant information before making a final decision. Do not return the first match you find—evaluate all sources. 
 4. Keep reasoning short: 10-20 words max.
@@ -31,8 +32,7 @@ If the knowledge base does not contain the answer, respond with:
 Format every answer as JSON:
 {
   "answer": "<Yes/No/Maybe>",
-  "reasoning": "<Short 20-30 word explanation>",
-  "source": "<Title of the text or document or link to the source>"
+  "reasoning": "<Short 20-30 word explanation>"
   }
 }
 Strict Rules:
@@ -55,18 +55,13 @@ def ask_question(question):
     # Append the user's question to the base prompt
     prompt = base_prompt + "\nQuestion: " + question
     payload = {
-    "messages": [
-        {
-            "role": "user",
-            "content": prompt
-        }
-    ],
-    "max_tokens": 256,
-    "temperature": 0.2,
-    "top_p": 0.9,
-    "k": 4,
-    "retrieval_method": "rewrite"
-}
+        "messages": [
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ]
+    }
 
     headers = {
         "Content-Type": "application/json",

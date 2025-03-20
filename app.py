@@ -26,11 +26,12 @@ if uploaded_file is not None:
             try:
                 # Parse the JSON response from the agent
                 content = response["choices"][0]["message"]["content"]
+                print("content", content)
                 answer_data = json.loads(content)
             except Exception as e:
                 answer_data = {
-                    "answer": "Error",
-                    "reasoning": f"Failed to parse response: {e}",
+                    "answer": "Not Sure",
+                    "reasoning": "Failed to get a proper response",
                     "source": ""
                 }
             answers.append(answer_data)
