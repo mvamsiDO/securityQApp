@@ -59,8 +59,14 @@ def process_security_questions(uploaded_file):
         st.error(f"Error processing file: {str(e)}")
         return None
 
+
+st.set_page_config(
+    page_title="DO Security Q&A",
+    page_icon="🔒",  # Optional: you can add an emoji or use a URL for a custom icon
+)
+
 # Main Streamlit app
-st.title("Security Policy Q&A Agent")
+st.title("DigitalOcean's GenAI powered Security Questionnaire App")
 
 st.markdown("Upload an Excel file (.xlsx) containing your security questions.")
 uploaded_file = st.file_uploader("Upload Excel", type=["xlsx"])
