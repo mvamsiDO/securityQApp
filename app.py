@@ -2,8 +2,6 @@ import streamlit as st
 import pandas as pd
 import time
 import json
-import os
-from io import BytesIO
 from chatbot import ask_question  # Import the function from chatbot.py
 
 def process_security_questions(uploaded_file):
@@ -74,10 +72,14 @@ if uploaded_file is not None:
         if processed_df is not None:
             st.write("Processed Data:", processed_df)
 
-            # Create an Excel file for download
-            output = BytesIO()
-            with pd.ExcelWriter(output, engine='openpyxl') as writer:
-                processed_df.to_excel(writer, index=False, sheet_name="Results")
-            processed_excel = output.getvalue()
-
-            st.download_button("Download Processed Excel", processed_excel, "Processed_Questions.xlsx")
+            # Create a CSV file for download
+            csv = processed_df.to_csv(index=False)
+            
+            # Offer the CSV for download
+            st.download_button(
+                "Download Processed CSV",
+                csv,
+                "Processed_Questions.csv",
+                "text/csv",
+                key='download-csv'
+            )
