@@ -6,5 +6,9 @@ The goal of this app is to demonstrate how DigitalOcean's GenAI platform can be 
 In this case, we have created a Security Questioneer Answering app that can will fill out a security questionnaire for you. \
 The app uses an GenAI RAG agent whose Knoweldge base contains the ficticous company's compliance documents to generate answers to the questions in the questionnaire.
 
+## GenAI High Level Design
+![GenAI High Level Design](./resources/GenAI_HLD.jpeg)
+
 ## High Level Design Diagram
 ![High Level Design Diagram](./resources/HLD.jpeg)
+
